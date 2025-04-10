@@ -1,0 +1,4592 @@
+[
+  {
+    "leader": "The Bouncing Shadowy Mage",
+    "score": 544,
+    "squad": [
+      "The Bouncing Shadowy Mage",
+      "The Leaping Quantum Wizard",
+      "The Bouncing Electric Hero",
+      "The Leaping Cosmic Telepath"
+    ]
+  },
+  {
+    "leader": "The Bouncing Neon Crusader",
+    "score": 320,
+    "squad": [
+      "The Bouncing Neon Crusader",
+      "The Leaping Incredible Titan",
+      "The Leaping Astral Automaton",
+      "The Leaping Unbreakable Sorcerer"
+    ]
+  },
+  {
+    "leader": "The Jumping Cloaked Guardian",
+    "score": 608,
+    "squad": [
+      "The Jumping Cloaked Guardian",
+      "The Leaping Amazing Defender",
+      "The Jumping Radiant Illusionist",
+      "The Bouncing Thunderous Sentinel"
+    ]
+  },
+  {
+    "leader": "The Leaping Thunderous Sentinel",
+    "score": 288,
+    "squad": [
+      "The Leaping Thunderous Sentinel",
+      "The Jumping Amazing Defender",
+      "The Leaping Incredible Crusader",
+      "The Jumping Enigmatic Leviathan"
+    ]
+  },
+  {
+    "leader": "The Leaping Fierce Defender",
+    "score": 288,
+    "squad": [
+      "The Leaping Fierce Defender",
+      "The Bouncing Fantastic Crusader",
+      "The Flying Galactic Ranger",
+      "The Bouncing Masked Paladin"
+    ]
+  },
+  {
+    "leader": "The Bouncing Amazing Avenger",
+    "score": 288,
+    "squad": [
+      "The Bouncing Amazing Avenger",
+      "The Jumping Atomic Crusader",
+      "The Jumping Invincible Warrior",
+      "The Jumping Mysterious Psychic"
+    ]
+  },
+  {
+    "leader": "The Jumping Fantastic Golem",
+    "score": 416,
+    "squad": [
+      "The Jumping Fantastic Golem",
+      "The Leaping Brave Guardian",
+      "The Bouncing Valiant Paladin",
+      "The Jumping Neon Android"
+    ]
+  },
+  {
+    "leader": "The Jumping Noble Avenger",
+    "score": 304,
+    "squad": [
+      "The Jumping Noble Avenger",
+      "The Bouncing Atomic Leviathan",
+      "The Flying Fierce Wizard",
+      "The Leaping Astral Ranger"
+    ]
+  },
+  {
+    "leader": "The Jumping Amazing Avenger",
+    "score": 272,
+    "squad": [
+      "The Jumping Amazing Avenger",
+      "The Flying Valiant Protector",
+      "The Jumping Astral Paladin",
+      "The Bouncing Unbreakable Warrior"
+    ]
+  },
+  {
+    "leader": "The Flying Unstoppable Enchanter",
+    "score": 288,
+    "squad": [
+      "The Flying Unstoppable Enchanter",
+      "The Bouncing Amazing Illusionist",
+      "The Leaping Unbreakable Protector",
+      "The Leaping Electric Cyborg"
+    ]
+  },
+  {
+    "leader": "The Leaping Thunderous Robot",
+    "score": 384,
+    "squad": [
+      "The Leaping Thunderous Robot",
+      "The Leaping Valiant Illusionist",
+      "The Jumping Masked Wizard",
+      "The Leaping Thunderous Leviathan"
+    ]
+  },
+  {
+    "leader": "The Jumping Radiant Crusader",
+    "score": 256,
+    "squad": [
+      "The Jumping Radiant Crusader",
+      "The Leaping Brave Android",
+      "The Jumping Masked Golem",
+      "The Flying Unstoppable Telepath"
+    ]
+  },
+  {
+    "leader": "The Bouncing Invincible Leviathan",
+    "score": 480,
+    "squad": [
+      "The Bouncing Invincible Leviathan",
+      "The Flying Mysterious Hero",
+      "The Jumping Astral Robot",
+      "The Flying Luminous Behemoth"
+    ]
+  },
+  {
+    "leader": "The Bouncing Invincible Knight",
+    "score": 256,
+    "squad": [
+      "The Bouncing Invincible Knight",
+      "The Flying Valiant Illusionist",
+      "The Bouncing Thunderous Wizard",
+      "The Bouncing Masked Robot"
+    ]
+  },
+  {
+    "leader": "The Flying Unbreakable Knight",
+    "score": 256,
+    "squad": [
+      "The Flying Unbreakable Knight",
+      "The Bouncing Electric Leviathan",
+      "The Bouncing Noble Golem",
+      "The Bouncing Mighty Knight"
+    ]
+  },
+  {
+    "leader": "The Bouncing Atomic Sentinel",
+    "score": 240,
+    "squad": [
+      "The Bouncing Atomic Sentinel",
+      "The Leaping Cosmic Cyborg",
+      "The Jumping Radiant Ranger",
+      "The Flying Atomic Soldier"
+    ]
+  },
+  {
+    "leader": "The Flying Noble Psychic",
+    "score": 480,
+    "squad": [
+      "The Flying Noble Psychic",
+      "The Jumping Fantastic Colossus",
+      "The Jumping Valiant Sentinel",
+      "The Flying Invincible Golem"
+    ]
+  },
+  {
+    "leader": "The Leaping Thunderous Sorcerer",
+    "score": 256,
+    "squad": [
+      "The Leaping Thunderous Sorcerer",
+      "The Jumping Valiant Behemoth",
+      "The Leaping Quantum Cyborg",
+      "The Bouncing Fierce Robot"
+    ]
+  },
+  {
+    "leader": "The Leaping Courageous Hero",
+    "score": 288,
+    "squad": [
+      "The Leaping Courageous Hero",
+      "The Bouncing Masked Sorcerer",
+      "The Jumping Electric Wizard",
+      "The Flying Fierce Android"
+    ]
+  },
+  {
+    "leader": "The Flying Courageous Paladin",
+    "score": 192,
+    "squad": [
+      "The Flying Courageous Paladin",
+      "The Jumping Radiant Golem",
+      "The Bouncing Courageous Colossus",
+      "The Bouncing Radiant Leviathan"
+    ]
+  },
+  {
+    "leader": "The Bouncing Cosmic Automaton",
+    "score": 288,
+    "squad": [
+      "The Bouncing Cosmic Automaton",
+      "The Jumping Atomic Warrior",
+      "The Flying Fantastic Mage",
+      "The Flying Amazing Wizard"
+    ]
+  },
+  {
+    "leader": "The Flying Mighty Colossus",
+    "score": 208,
+    "squad": [
+      "The Flying Mighty Colossus",
+      "The Leaping Quantum Robot",
+      "The Flying Amazing Champion",
+      "The Bouncing Unbreakable Hero"
+    ]
+  },
+  {
+    "leader": "The Flying Brave Behemoth",
+    "score": 240,
+    "squad": [
+      "The Flying Brave Behemoth",
+      "The Leaping Enigmatic Automaton",
+      "The Bouncing Cosmic Behemoth",
+      "The Jumping Courageous Warrior"
+    ]
+  },
+  {
+    "leader": "The Flying Luminous Sorcerer",
+    "score": 272,
+    "squad": [
+      "The Flying Luminous Sorcerer",
+      "The Flying Masked Ranger",
+      "The Flying Enigmatic Soldier",
+      "The Bouncing Neon Titan"
+    ]
+  },
+  {
+    "leader": "The Jumping Shadowy Defender",
+    "score": 136,
+    "squad": [
+      "The Jumping Shadowy Defender",
+      "The Bouncing Galactic Behemoth",
+      "The Bouncing Mysterious Automaton",
+      "The Jumping Luminous Guardian"
+    ]
+  },
+  {
+    "leader": "The Leaping Daring Archer",
+    "score": 144,
+    "squad": [
+      "The Leaping Daring Archer",
+      "The Leaping Radiant Illusionist",
+      "The Jumping Cosmic Sorcerer",
+      "The Jumping Enigmatic Ranger"
+    ]
+  },
+  {
+    "leader": "The Leaping Cosmic Guardian",
+    "score": 128,
+    "squad": [
+      "The Leaping Cosmic Guardian",
+      "The Flying Noble Telepath",
+      "The Leaping Unstoppable Android",
+      "The Bouncing Celestial Defender"
+    ]
+  },
+  {
+    "leader": "The Jumping Amazing Telepath",
+    "score": 272,
+    "squad": [
+      "The Jumping Amazing Telepath",
+      "The Leaping Brave Psychic",
+      "The Jumping Celestial Sentinel",
+      "The Jumping Mighty Soldier"
+    ]
+  },
+  {
+    "leader": "The Bouncing Incredible Telepath",
+    "score": 240,
+    "squad": [
+      "The Bouncing Incredible Telepath",
+      "The Jumping Incredible Paladin",
+      "The Leaping Masked Ranger",
+      "The Jumping Enigmatic Wizard"
+    ]
+  },
+  {
+    "leader": "The Jumping Atomic Cyborg",
+    "score": 272,
+    "squad": [
+      "The Jumping Atomic Cyborg",
+      "The Leaping Neon Mage",
+      "The Jumping Fantastic Sentinel",
+      "The Leaping Cosmic Android"
+    ]
+  },
+  {
+    "leader": "The Jumping Mighty Warrior",
+    "score": 136,
+    "squad": [
+      "The Jumping Mighty Warrior",
+      "The Leaping Quantum Colossus",
+      "The Leaping Celestial Crusader",
+      "The Leaping Mighty Behemoth"
+    ]
+  },
+  {
+    "leader": "The Bouncing Courageous Telepath",
+    "score": 288,
+    "squad": [
+      "The Bouncing Courageous Telepath",
+      "The Bouncing Brave Hero",
+      "The Bouncing Masked Knight",
+      "The Leaping Thunderous Defender"
+    ]
+  },
+  {
+    "leader": "The Flying Invincible Psychic",
+    "score": 256,
+    "squad": [
+      "The Flying Invincible Psychic",
+      "The Bouncing Invincible Enchanter",
+      "The Leaping Radiant Guardian",
+      "The Leaping Quantum Golem"
+    ]
+  },
+  {
+    "leader": "The Flying Thunderous Sorcerer",
+    "score": 256,
+    "squad": [
+      "The Flying Thunderous Sorcerer",
+      "The Flying Enigmatic Golem",
+      "The Jumping Cloaked Paladin",
+      "The Flying Cloaked Sentinel"
+    ]
+  },
+  {
+    "leader": "The Jumping Mighty Enchanter",
+    "score": 256,
+    "squad": [
+      "The Jumping Mighty Enchanter",
+      "The Jumping Enigmatic Automaton",
+      "The Leaping Brave Titan",
+      "The Bouncing Brave Enchanter"
+    ]
+  },
+  {
+    "leader": "The Leaping Courageous Robot",
+    "score": 272,
+    "squad": [
+      "The Leaping Courageous Robot",
+      "The Leaping Masked Knight",
+      "The Bouncing Fearless Sorcerer",
+      "The Bouncing Shadowy Enchanter"
+    ]
+  },
+  {
+    "leader": "The Flying Amazing Robot",
+    "score": 288,
+    "squad": [
+      "The Flying Amazing Robot",
+      "The Bouncing Masked Colossus",
+      "The Jumping Electric Telepath",
+      "The Bouncing Brave Titan"
+    ]
+  },
+  {
+    "leader": "The Jumping Amazing Enchanter",
+    "score": 288,
+    "squad": [
+      "The Jumping Amazing Enchanter",
+      "The Leaping Fearless Paladin",
+      "The Leaping Fearless Robot",
+      "The Jumping Invincible Champion"
+    ]
+  },
+  {
+    "leader": "The Leaping Thunderous Protector",
+    "score": 192,
+    "squad": [
+      "The Leaping Thunderous Protector",
+      "The Bouncing Mighty Android",
+      "The Bouncing Cloaked Psychic",
+      "The Jumping Radiant Cyborg"
+    ]
+  },
+  {
+    "leader": "The Jumping Enigmatic Avenger",
+    "score": 272,
+    "squad": [
+      "The Jumping Enigmatic Avenger",
+      "The Jumping Enigmatic Enchanter",
+      "The Bouncing Thunderous Avenger",
+      "The Leaping Electric Archer"
+    ]
+  },
+  {
+    "leader": "The Leaping Brave Warrior",
+    "score": 288,
+    "squad": [
+      "The Leaping Brave Warrior",
+      "The Bouncing Mysterious Warrior",
+      "The Bouncing Valiant Sentinel",
+      "The Leaping Fierce Golem"
+    ]
+  },
+  {
+    "leader": "The Bouncing Fierce Warrior",
+    "score": 416,
+    "squad": [
+      "The Bouncing Fierce Warrior",
+      "The Flying Mysterious Psychic",
+      "The Flying Celestial Avenger",
+      "The Jumping Amazing Wizard"
+    ]
+  },
+  {
+    "leader": "The Leaping Courageous Behemoth",
+    "score": 416,
+    "squad": [
+      "The Leaping Courageous Behemoth",
+      "The Leaping Mighty Psychic",
+      "The Bouncing Valiant Colossus",
+      "The Bouncing Fierce Soldier"
+    ]
+  },
+  {
+    "leader": "The Leaping Electric Colossus",
+    "score": 448,
+    "squad": [
+      "The Leaping Electric Colossus",
+      "The Leaping Fierce Warrior",
+      "The Flying Invincible Android",
+      "The Leaping Celestial Automaton"
+    ]
+  },
+  {
+    "leader": "The Jumping Shadowy Ranger",
+    "score": 288,
+    "squad": [
+      "The Jumping Shadowy Ranger",
+      "The Jumping Fearless Mage",
+      "The Leaping Incredible Avenger",
+      "The Bouncing Thunderous Archer"
+    ]
+  },
+  {
+    "leader": "The Flying Thunderous Knight",
+    "score": 256,
+    "squad": [
+      "The Flying Thunderous Knight",
+      "The Flying Enigmatic Sentinel",
+      "The Leaping Valiant Guardian",
+      "The Flying Celestial Psychic"
+    ]
+  },
+  {
+    "leader": "The Jumping Invincible Ranger",
+    "score": 256,
+    "squad": [
+      "The Jumping Invincible Ranger",
+      "The Flying Daring Soldier",
+      "The Flying Mighty Guardian",
+      "The Flying Electric Behemoth"
+    ]
+  },
+  {
+    "leader": "The Leaping Shadowy Telepath",
+    "score": 208,
+    "squad": [
+      "The Leaping Shadowy Telepath",
+      "The Bouncing Noble Illusionist",
+      "The Leaping Incredible Defender",
+      "The Leaping Electric Enchanter"
+    ]
+  },
+  {
+    "leader": "The Leaping Fierce Ranger",
+    "score": 240,
+    "squad": [
+      "The Leaping Fierce Ranger",
+      "The Jumping Unstoppable Guardian",
+      "The Leaping Radiant Android",
+      "The Flying Electric Warrior"
+    ]
+  },
+  {
+    "leader": "The Jumping Daring Sorcerer",
+    "score": 320,
+    "squad": [
+      "The Jumping Daring Sorcerer",
+      "The Bouncing Quantum Warrior",
+      "The Leaping Unstoppable Avenger",
+      "The Bouncing Valiant Archer"
+    ]
+  },
+  {
+    "leader": "The Bouncing Fantastic Leviathan",
+    "score": 272,
+    "squad": [
+      "The Bouncing Fantastic Leviathan",
+      "The Jumping Radiant Hero",
+      "The Jumping Invincible Cyborg",
+      "The Jumping Unstoppable Android"
+    ]
+  },
+  {
+    "leader": "The Flying Thunderous Crusader",
+    "score": 480,
+    "squad": [
+      "The Flying Thunderous Crusader",
+      "The Leaping Shadowy Golem",
+      "The Jumping Thunderous Golem",
+      "The Flying Electric Psychic"
+    ]
+  },
+  {
+    "leader": "The Leaping Incredible Soldier",
+    "score": 192,
+    "squad": [
+      "The Leaping Incredible Soldier",
+      "The Flying Luminous Knight",
+      "The Leaping Enigmatic Enchanter",
+      "The Jumping Thunderous Warrior"
+    ]
+  },
+  {
+    "leader": "The Bouncing Cosmic Paladin",
+    "score": 256,
+    "squad": [
+      "The Bouncing Cosmic Paladin",
+      "The Bouncing Fantastic Mage",
+      "The Flying Mighty Defender",
+      "The Bouncing Amazing Robot"
+    ]
+  },
+  {
+    "leader": "The Jumping Shadowy Protector",
+    "score": 224,
+    "squad": [
+      "The Jumping Shadowy Protector",
+      "The Jumping Galactic Archer",
+      "The Leaping Luminous Champion",
+      "The Bouncing Fierce Enchanter"
+    ]
+  },
+  {
+    "leader": "The Leaping Courageous Golem",
+    "score": 288,
+    "squad": [
+      "The Leaping Courageous Golem",
+      "The Bouncing Daring Cyborg",
+      "The Bouncing Quantum Android",
+      "The Jumping Quantum Titan"
+    ]
+  },
+  {
+    "leader": "The Flying Shadowy Crusader",
+    "score": 288,
+    "squad": [
+      "The Flying Shadowy Crusader",
+      "The Jumping Astral Leviathan",
+      "The Leaping Cosmic Sentinel",
+      "The Flying Unstoppable Paladin"
+    ]
+  },
+  {
+    "leader": "The Jumping Quantum Psychic",
+    "score": 272,
+    "squad": [
+      "The Jumping Quantum Psychic",
+      "The Leaping Valiant Sentinel",
+      "The Leaping Astral Crusader",
+      "The Flying Noble Enchanter"
+    ]
+  },
+  {
+    "leader": "The Leaping Fierce Guardian",
+    "score": 512,
+    "squad": [
+      "The Leaping Fierce Guardian",
+      "The Flying Cloaked Titan",
+      "The Leaping Incredible Sentinel",
+      "The Leaping Neon Leviathan"
+    ]
+  },
+  {
+    "leader": "The Flying Astral Leviathan",
+    "score": 128,
+    "squad": [
+      "The Flying Astral Leviathan",
+      "The Flying Amazing Cyborg",
+      "The Flying Mysterious Champion",
+      "The Jumping Quantum Colossus"
+    ]
+  },
+  {
+    "leader": "The Jumping Daring Avenger",
+    "score": 128,
+    "squad": [
+      "The Jumping Daring Avenger",
+      "The Leaping Shadowy Archer",
+      "The Leaping Daring Soldier",
+      "The Bouncing Brave Automaton"
+    ]
+  },
+  {
+    "leader": "The Bouncing Mysterious Soldier",
+    "score": 120,
+    "squad": [
+      "The Bouncing Mysterious Soldier",
+      "The Flying Unstoppable Automaton",
+      "The Leaping Enigmatic Archer",
+      "The Flying Astral Mage"
+    ]
+  },
+  {
+    "leader": "The Flying Atomic Cyborg",
+    "score": 76,
+    "squad": [
+      "The Flying Atomic Cyborg",
+      "The Leaping Courageous Ranger",
+      "The Jumping Noble Psychic",
+      "The Jumping Cosmic Hero"
+    ]
+  },
+  {
+    "leader": "The Jumping Fierce Automaton",
+    "score": 144,
+    "squad": [
+      "The Jumping Fierce Automaton",
+      "The Leaping Atomic Psychic",
+      "The Leaping Masked Wizard",
+      "The Jumping Daring Titan"
+    ]
+  },
+  {
+    "leader": "The Bouncing Mighty Archer",
+    "score": 128,
+    "squad": [
+      "The Bouncing Mighty Archer",
+      "The Flying Celestial Hero",
+      "The Flying Enigmatic Psychic",
+      "The Bouncing Electric Behemoth"
+    ]
+  },
+  {
+    "leader": "The Bouncing Fearless Titan",
+    "score": 256,
+    "squad": [
+      "The Bouncing Fearless Titan",
+      "The Flying Quantum Guardian",
+      "The Flying Masked Mage",
+      "The Flying Incredible Enchanter"
+    ]
+  },
+  {
+    "leader": "The Leaping Daring Cyborg",
+    "score": 120,
+    "squad": [
+      "The Leaping Daring Cyborg",
+      "The Flying Astral Ranger",
+      "The Leaping Amazing Crusader",
+      "The Bouncing Atomic Ranger"
+    ]
+  },
+  {
+    "leader": "The Leaping Radiant Golem",
+    "score": 136,
+    "squad": [
+      "The Leaping Radiant Golem",
+      "The Bouncing Shadowy Ranger",
+      "The Flying Galactic Enchanter",
+      "The Jumping Amazing Sorcerer"
+    ]
+  },
+  {
+    "leader": "The Leaping Invincible Sorcerer",
+    "score": 224,
+    "squad": [
+      "The Leaping Invincible Sorcerer",
+      "The Bouncing Atomic Robot",
+      "The Bouncing Valiant Enchanter",
+      "The Jumping Brave Behemoth"
+    ]
+  },
+  {
+    "leader": "The Jumping Fierce Ranger",
+    "score": 240,
+    "squad": [
+      "The Jumping Fierce Ranger",
+      "The Flying Mysterious Telepath",
+      "The Leaping Celestial Wizard",
+      "The Jumping Valiant Cyborg"
+    ]
+  },
+  {
+    "leader": "The Bouncing Atomic Wizard",
+    "score": 272,
+    "squad": [
+      "The Bouncing Atomic Wizard",
+      "The Flying Cloaked Mage",
+      "The Leaping Luminous Ranger",
+      "The Leaping Brave Colossus"
+    ]
+  },
+  {
+    "leader": "The Bouncing Enigmatic Warrior",
+    "score": 224,
+    "squad": [
+      "The Bouncing Enigmatic Warrior",
+      "The Flying Shadowy Guardian",
+      "The Jumping Radiant Leviathan",
+      "The Flying Noble Behemoth"
+    ]
+  },
+  {
+    "leader": "The Leaping Celestial Knight",
+    "score": 256,
+    "squad": [
+      "The Leaping Celestial Knight",
+      "The Jumping Radiant Telepath",
+      "The Flying Astral Crusader",
+      "The Leaping Amazing Titan"
+    ]
+  },
+  {
+    "leader": "The Leaping Astral Robot",
+    "score": 208,
+    "squad": [
+      "The Leaping Astral Robot",
+      "The Jumping Noble Sorcerer",
+      "The Jumping Fierce Wizard",
+      "The Leaping Electric Wizard"
+    ]
+  },
+  {
+    "leader": "The Flying Atomic Android",
+    "score": 416,
+    "squad": [
+      "The Flying Atomic Android",
+      "The Bouncing Electric Telepath",
+      "The Flying Noble Automaton",
+      "The Leaping Shadowy Paladin"
+    ]
+  },
+  {
+    "leader": "The Flying Valiant Paladin",
+    "score": 240,
+    "squad": [
+      "The Flying Valiant Paladin",
+      "The Bouncing Incredible Robot",
+      "The Flying Unbreakable Guardian",
+      "The Flying Amazing Hero"
+    ]
+  },
+  {
+    "leader": "The Bouncing Radiant Champion",
+    "score": 272,
+    "squad": [
+      "The Bouncing Radiant Champion",
+      "The Flying Quantum Hero",
+      "The Flying Quantum Illusionist",
+      "The Flying Radiant Sorcerer"
+    ]
+  },
+  {
+    "leader": "The Flying Galactic Paladin",
+    "score": 208,
+    "squad": [
+      "The Flying Galactic Paladin",
+      "The Jumping Fearless Protector",
+      "The Jumping Daring Hero",
+      "The Jumping Invincible Knight"
+    ]
+  },
+  {
+    "leader": "The Leaping Enigmatic Illusionist",
+    "score": 448,
+    "squad": [
+      "The Leaping Enigmatic Illusionist",
+      "The Bouncing Galactic Colossus",
+      "The Bouncing Brave Defender",
+      "The Jumping Mysterious Soldier"
+    ]
+  },
+  {
+    "leader": "The Flying Daring Psychic",
+    "score": 224,
+    "squad": [
+      "The Flying Daring Psychic",
+      "The Jumping Unstoppable Crusader",
+      "The Leaping Mighty Cyborg",
+      "The Leaping Fierce Champion"
+    ]
+  },
+  {
+    "leader": "The Bouncing Thunderous Warrior",
+    "score": 240,
+    "squad": [
+      "The Bouncing Thunderous Warrior",
+      "The Jumping Atomic Titan",
+      "The Jumping Galactic Warrior",
+      "The Flying Invincible Behemoth"
+    ]
+  },
+  {
+    "leader": "The Flying Unbreakable Colossus",
+    "score": 208,
+    "squad": [
+      "The Flying Unbreakable Colossus",
+      "The Leaping Galactic Sorcerer",
+      "The Jumping Cosmic Ranger",
+      "The Bouncing Fantastic Archer"
+    ]
+  },
+  {
+    "leader": "The Jumping Enigmatic Crusader",
+    "score": 240,
+    "squad": [
+      "The Jumping Enigmatic Crusader",
+      "The Bouncing Noble Hero",
+      "The Bouncing Celestial Sorcerer",
+      "The Bouncing Mysterious Colossus"
+    ]
+  },
+  {
+    "leader": "The Flying Galactic Knight",
+    "score": 240,
+    "squad": [
+      "The Flying Galactic Knight",
+      "The Jumping Unstoppable Sentinel",
+      "The Leaping Electric Golem",
+      "The Bouncing Invincible Android"
+    ]
+  },
+  {
+    "leader": "The Jumping Thunderous Enchanter",
+    "score": 240,
+    "squad": [
+      "The Jumping Thunderous Enchanter",
+      "The Flying Fierce Sorcerer",
+      "The Flying Fierce Sentinel",
+      "The Flying Astral Psychic"
+    ]
+  },
+  {
+    "leader": "The Bouncing Radiant Telepath",
+    "score": 224,
+    "squad": [
+      "The Bouncing Radiant Telepath",
+      "The Jumping Fantastic Robot",
+      "The Jumping Amazing Golem",
+      "The Leaping Thunderous Automaton"
+    ]
+  },
+  {
+    "leader": "The Bouncing Fierce Behemoth",
+    "score": 192,
+    "squad": [
+      "The Bouncing Fierce Behemoth",
+      "The Leaping Brave Archer",
+      "The Jumping Unstoppable Warrior",
+      "The Bouncing Fantastic Colossus"
+    ]
+  },
+  {
+    "leader": "The Jumping Electric Hero",
+    "score": 192,
+    "squad": [
+      "The Jumping Electric Hero",
+      "The Leaping Quantum Enchanter",
+      "The Flying Thunderous Champion",
+      "The Bouncing Luminous Archer"
+    ]
+  },
+  {
+    "leader": "The Leaping Invincible Automaton",
+    "score": 240,
+    "squad": [
+      "The Leaping Invincible Automaton",
+      "The Jumping Mysterious Automaton",
+      "The Leaping Fantastic Behemoth",
+      "The Bouncing Masked Champion"
+    ]
+  },
+  {
+    "leader": "The Jumping Courageous Telepath",
+    "score": 240,
+    "squad": [
+      "The Jumping Courageous Telepath",
+      "The Flying Thunderous Telepath",
+      "The Jumping Masked Avenger",
+      "The Flying Neon Colossus"
+    ]
+  },
+  {
+    "leader": "The Leaping Unbreakable Hero",
+    "score": 480,
+    "squad": [
+      "The Leaping Unbreakable Hero",
+      "The Leaping Unbreakable Knight",
+      "The Jumping Astral Knight",
+      "The Flying Mighty Protector"
+    ]
+  },
+  {
+    "leader": "The Flying Fantastic Ranger",
+    "score": 272,
+    "squad": [
+      "The Flying Fantastic Ranger",
+      "The Flying Incredible Titan",
+      "The Jumping Unbreakable Telepath",
+      "The Bouncing Celestial Sentinel"
+    ]
+  },
+  {
+    "leader": "The Flying Neon Android",
+    "score": 224,
+    "squad": [
+      "The Flying Neon Android",
+      "The Leaping Incredible Android",
+      "The Jumping Luminous Avenger",
+      "The Bouncing Amazing Cyborg"
+    ]
+  },
+  {
+    "leader": "The Bouncing Shadowy Wizard",
+    "score": 240,
+    "squad": [
+      "The Bouncing Shadowy Wizard",
+      "The Jumping Amazing Behemoth",
+      "The Leaping Celestial Soldier",
+      "The Bouncing Quantum Ranger"
+    ]
+  },
+  {
+    "leader": "The Bouncing Celestial Crusader",
+    "score": 208,
+    "squad": [
+      "The Bouncing Celestial Crusader",
+      "The Jumping Quantum Behemoth",
+      "The Flying Radiant Soldier",
+      "The Flying Luminous Robot"
+    ]
+  },
+  {
+    "leader": "The Leaping Mighty Soldier",
+    "score": 352,
+    "squad": [
+      "The Leaping Mighty Soldier",
+      "The Flying Luminous Psychic",
+      "The Bouncing Enigmatic Sorcerer",
+      "The Leaping Courageous Protector"
+    ]
+  },
+  {
+    "leader": "The Jumping Cosmic Wizard",
+    "score": 224,
+    "squad": [
+      "The Jumping Cosmic Wizard",
+      "The Leaping Quantum Soldier",
+      "The Leaping Galactic Sentinel",
+      "The Bouncing Daring Behemoth"
+    ]
+  },
+  {
+    "leader": "The Flying Incredible Automaton",
+    "score": 352,
+    "squad": [
+      "The Flying Incredible Automaton",
+      "The Bouncing Cosmic Enchanter",
+      "The Leaping Fierce Soldier",
+      "The Leaping Courageous Knight"
+    ]
+  },
+  {
+    "leader": "The Bouncing Radiant Psychic",
+    "score": 256,
+    "squad": [
+      "The Bouncing Radiant Psychic",
+      "The Flying Cosmic Psychic",
+      "The Jumping Atomic Hero",
+      "The Bouncing Fierce Knight"
+    ]
+  },
+  {
+    "leader": "The Jumping Masked Defender",
+    "score": 192,
+    "squad": [
+      "The Jumping Masked Defender",
+      "The Leaping Radiant Ranger",
+      "The Leaping Thunderous Colossus",
+      "The Leaping Brave Cyborg"
+    ]
+  },
+  {
+    "leader": "The Leaping Unstoppable Wizard",
+    "score": 176,
+    "squad": [
+      "The Leaping Unstoppable Wizard",
+      "The Flying Astral Hero",
+      "The Jumping Cosmic Golem",
+      "The Bouncing Shadowy Leviathan"
+    ]
+  },
+  {
+    "leader": "The Flying Valiant Ranger",
+    "score": 256,
+    "squad": [
+      "The Flying Valiant Ranger",
+      "The Jumping Galactic Automaton",
+      "The Leaping Neon Guardian",
+      "The Leaping Courageous Colossus"
+    ]
+  },
+  {
+    "leader": "The Bouncing Electric Avenger",
+    "score": 176,
+    "squad": [
+      "The Bouncing Electric Avenger",
+      "The Flying Astral Avenger",
+      "The Leaping Galactic Mage",
+      "The Jumping Mysterious Cyborg"
+    ]
+  },
+  {
+    "leader": "The Leaping Electric Automaton",
+    "score": 192,
+    "squad": [
+      "The Leaping Electric Automaton",
+      "The Bouncing Luminous Psychic",
+      "The Bouncing Brave Knight",
+      "The Jumping Mighty Paladin"
+    ]
+  },
+  {
+    "leader": "The Jumping Mighty Illusionist",
+    "score": 88,
+    "squad": [
+      "The Jumping Mighty Illusionist",
+      "The Bouncing Daring Protector",
+      "The Leaping Neon Titan",
+      "The Leaping Fearless Protector"
+    ]
+  },
+  {
+    "leader": "The Flying Fierce Colossus",
+    "score": 128,
+    "squad": [
+      "The Flying Fierce Colossus",
+      "The Leaping Invincible Cyborg",
+      "The Jumping Unstoppable Automaton",
+      "The Flying Luminous Automaton"
+    ]
+  },
+  {
+    "leader": "The Leaping Brave Hero",
+    "score": 224,
+    "squad": [
+      "The Leaping Brave Hero",
+      "The Leaping Brave Ranger",
+      "The Flying Invincible Sorcerer",
+      "The Bouncing Brave Sentinel"
+    ]
+  },
+  {
+    "leader": "The Leaping Noble Behemoth",
+    "score": 136,
+    "squad": [
+      "The Leaping Noble Behemoth",
+      "The Jumping Brave Enchanter",
+      "The Jumping Invincible Paladin",
+      "The Bouncing Invincible Telepath"
+    ]
+  },
+  {
+    "leader": "The Flying Daring Sentinel",
+    "score": 112,
+    "squad": [
+      "The Flying Daring Sentinel",
+      "The Flying Mighty Titan",
+      "The Flying Noble Archer",
+      "The Flying Fierce Defender"
+    ]
+  },
+  {
+    "leader": "The Bouncing Cosmic Psychic",
+    "score": 176,
+    "squad": [
+      "The Bouncing Cosmic Psychic",
+      "The Jumping Mysterious Champion",
+      "The Leaping Celestial Archer",
+      "The Flying Unstoppable Ranger"
+    ]
+  },
+  {
+    "leader": "The Flying Radiant Guardian",
+    "score": 256,
+    "squad": [
+      "The Flying Radiant Guardian",
+      "The Flying Neon Telepath",
+      "The Bouncing Noble Titan",
+      "The Jumping Thunderous Titan"
+    ]
+  },
+  {
+    "leader": "The Jumping Astral Champion",
+    "score": 104,
+    "squad": [
+      "The Jumping Astral Champion",
+      "The Flying Mighty Golem",
+      "The Bouncing Fierce Titan",
+      "The Jumping Luminous Enchanter"
+    ]
+  },
+  {
+    "leader": "The Leaping Cloaked Illusionist",
+    "score": 96,
+    "squad": [
+      "The Leaping Cloaked Illusionist",
+      "The Flying Luminous Illusionist",
+      "The Flying Shadowy Leviathan",
+      "The Bouncing Atomic Psychic"
+    ]
+  },
+  {
+    "leader": "The Jumping Daring Automaton",
+    "score": 112,
+    "squad": [
+      "The Jumping Daring Automaton",
+      "The Jumping Shadowy Robot",
+      "The Jumping Mysterious Paladin",
+      "The Bouncing Amazing Android"
+    ]
+  },
+  {
+    "leader": "The Leaping Fantastic Archer",
+    "score": 72,
+    "squad": [
+      "The Leaping Fantastic Archer",
+      "The Flying Atomic Knight",
+      "The Bouncing Courageous Paladin",
+      "The Bouncing Thunderous Leviathan"
+    ]
+  },
+  {
+    "leader": "The Jumping Cosmic Psychic",
+    "score": 60,
+    "squad": [
+      "The Jumping Cosmic Psychic",
+      "The Jumping Fantastic Psychic",
+      "The Bouncing Daring Mage",
+      "The Bouncing Electric Titan"
+    ]
+  },
+  {
+    "leader": "The Leaping Unstoppable Colossus",
+    "score": 38,
+    "squad": [
+      "The Leaping Unstoppable Colossus",
+      "The Leaping Fierce Enchanter",
+      "The Jumping Valiant Knight",
+      "The Leaping Cloaked Colossus"
+    ]
+  },
+  {
+    "leader": "The Bouncing Cloaked Golem",
+    "score": 136,
+    "squad": [
+      "The Bouncing Cloaked Golem",
+      "The Leaping Astral Protector",
+      "The Bouncing Shadowy Telepath",
+      "The Bouncing Fantastic Warrior"
+    ]
+  },
+  {
+    "leader": "The Flying Fierce Ranger",
+    "score": 72,
+    "squad": [
+      "The Flying Fierce Ranger",
+      "The Flying Luminous Champion",
+      "The Flying Astral Wizard",
+      "The Jumping Cosmic Leviathan"
+    ]
+  },
+  {
+    "leader": "The Leaping Unbreakable Cyborg",
+    "score": 192,
+    "squad": [
+      "The Leaping Unbreakable Cyborg",
+      "The Flying Unstoppable Behemoth",
+      "The Leaping Brave Wizard",
+      "The Jumping Brave Crusader"
+    ]
+  },
+  {
+    "leader": "The Jumping Fearless Hero",
+    "score": 320,
+    "squad": [
+      "The Jumping Fearless Hero",
+      "The Flying Radiant Defender",
+      "The Flying Mysterious Paladin",
+      "The Flying Unstoppable Sorcerer"
+    ]
+  },
+  {
+    "leader": "The Leaping Unbreakable Wizard",
+    "score": 224,
+    "squad": [
+      "The Leaping Unbreakable Wizard",
+      "The Jumping Astral Sorcerer",
+      "The Leaping Radiant Leviathan",
+      "The Jumping Fearless Archer"
+    ]
+  },
+  {
+    "leader": "The Flying Neon Sentinel",
+    "score": 272,
+    "squad": [
+      "The Flying Neon Sentinel",
+      "The Leaping Noble Enchanter",
+      "The Jumping Enigmatic Cyborg",
+      "The Bouncing Thunderous Titan"
+    ]
+  },
+  {
+    "leader": "The Leaping Daring Automaton",
+    "score": 240,
+    "squad": [
+      "The Leaping Daring Automaton",
+      "The Flying Noble Wizard",
+      "The Bouncing Enigmatic Automaton",
+      "The Flying Cloaked Behemoth"
+    ]
+  },
+  {
+    "leader": "The Jumping Fierce Champion",
+    "score": 256,
+    "squad": [
+      "The Jumping Fierce Champion",
+      "The Bouncing Electric Warrior",
+      "The Leaping Quantum Protector",
+      "The Jumping Celestial Psychic"
+    ]
+  },
+  {
+    "leader": "The Flying Invincible Robot",
+    "score": 176,
+    "squad": [
+      "The Flying Invincible Robot",
+      "The Jumping Galactic Titan",
+      "The Jumping Unbreakable Cyborg",
+      "The Flying Atomic Champion"
+    ]
+  },
+  {
+    "leader": "The Bouncing Masked Protector",
+    "score": 240,
+    "squad": [
+      "The Bouncing Masked Protector",
+      "The Bouncing Valiant Titan",
+      "The Bouncing Brave Leviathan",
+      "The Bouncing Cosmic Champion"
+    ]
+  },
+  {
+    "leader": "The Leaping Galactic Avenger",
+    "score": 192,
+    "squad": [
+      "The Leaping Galactic Avenger",
+      "The Jumping Mighty Golem",
+      "The Jumping Unbreakable Defender",
+      "The Leaping Luminous Psychic"
+    ]
+  },
+  {
+    "leader": "The Leaping Cloaked Wizard",
+    "score": 480,
+    "squad": [
+      "The Leaping Cloaked Wizard",
+      "The Bouncing Luminous Hero",
+      "The Jumping Celestial Knight",
+      "The Bouncing Cosmic Telepath"
+    ]
+  },
+  {
+    "leader": "The Flying Daring Titan",
+    "score": 192,
+    "squad": [
+      "The Flying Daring Titan",
+      "The Jumping Masked Knight",
+      "The Leaping Mighty Sentinel",
+      "The Leaping Courageous Champion"
+    ]
+  },
+  {
+    "leader": "The Jumping Noble Defender",
+    "score": 224,
+    "squad": [
+      "The Jumping Noble Defender",
+      "The Jumping Daring Soldier",
+      "The Flying Fantastic Behemoth",
+      "The Leaping Fierce Hero"
+    ]
+  },
+  {
+    "leader": "The Jumping Mysterious Robot",
+    "score": 176,
+    "squad": [
+      "The Jumping Mysterious Robot",
+      "The Flying Astral Sorcerer",
+      "The Leaping Brave Soldier",
+      "The Bouncing Fantastic Titan"
+    ]
+  },
+  {
+    "leader": "The Jumping Mighty Archer",
+    "score": 224,
+    "squad": [
+      "The Jumping Mighty Archer",
+      "The Flying Invincible Mage",
+      "The Flying Shadowy Cyborg",
+      "The Flying Brave Warrior"
+    ]
+  },
+  {
+    "leader": "The Leaping Invincible Golem",
+    "score": 144,
+    "squad": [
+      "The Leaping Invincible Golem",
+      "The Jumping Fantastic Defender",
+      "The Jumping Fearless Psychic",
+      "The Jumping Shadowy Titan"
+    ]
+  },
+  {
+    "leader": "The Leaping Incredible Protector",
+    "score": 224,
+    "squad": [
+      "The Leaping Incredible Protector",
+      "The Flying Mighty Telepath",
+      "The Jumping Valiant Enchanter",
+      "The Bouncing Electric Mage"
+    ]
+  },
+  {
+    "leader": "The Bouncing Unstoppable Golem",
+    "score": 208,
+    "squad": [
+      "The Bouncing Unstoppable Golem",
+      "The Flying Mighty Psychic",
+      "The Jumping Luminous Sentinel",
+      "The Flying Mighty Champion"
+    ]
+  },
+  {
+    "leader": "The Bouncing Mighty Avenger",
+    "score": 240,
+    "squad": [
+      "The Bouncing Mighty Avenger",
+      "The Jumping Mysterious Illusionist",
+      "The Flying Fearless Champion",
+      "The Jumping Galactic Robot"
+    ]
+  },
+  {
+    "leader": "The Bouncing Valiant Avenger",
+    "score": 240,
+    "squad": [
+      "The Bouncing Valiant Avenger",
+      "The Jumping Unstoppable Cyborg",
+      "The Jumping Fearless Behemoth",
+      "The Flying Atomic Golem"
+    ]
+  },
+  {
+    "leader": "The Leaping Courageous Mage",
+    "score": 208,
+    "squad": [
+      "The Leaping Courageous Mage",
+      "The Leaping Unbreakable Champion",
+      "The Flying Cloaked Warrior",
+      "The Bouncing Fearless Knight"
+    ]
+  },
+  {
+    "leader": "The Bouncing Neon Mage",
+    "score": 208,
+    "squad": [
+      "The Bouncing Neon Mage",
+      "The Bouncing Unbreakable Mage",
+      "The Jumping Fantastic Sorcerer",
+      "The Bouncing Daring Hero"
+    ]
+  },
+  {
+    "leader": "The Leaping Daring Crusader",
+    "score": 272,
+    "squad": [
+      "The Leaping Daring Crusader",
+      "The Jumping Unbreakable Automaton",
+      "The Bouncing Invincible Wizard",
+      "The Flying Invincible Soldier"
+    ]
+  },
+  {
+    "leader": "The Bouncing Astral Knight",
+    "score": 224,
+    "squad": [
+      "The Bouncing Astral Knight",
+      "The Flying Thunderous Warrior",
+      "The Flying Cosmic Ranger",
+      "The Leaping Fantastic Robot"
+    ]
+  },
+  {
+    "leader": "The Bouncing Daring Colossus",
+    "score": 192,
+    "squad": [
+      "The Bouncing Daring Colossus",
+      "The Jumping Mighty Protector",
+      "The Jumping Mighty Telepath",
+      "The Jumping Mighty Behemoth"
+    ]
+  },
+  {
+    "leader": "The Flying Radiant Crusader",
+    "score": 136,
+    "squad": [
+      "The Flying Radiant Crusader",
+      "The Jumping Enigmatic Champion",
+      "The Flying Electric Sentinel",
+      "The Jumping Fearless Defender"
+    ]
+  },
+  {
+    "leader": "The Flying Courageous Soldier",
+    "score": 112,
+    "squad": [
+      "The Flying Courageous Soldier",
+      "The Leaping Neon Hero",
+      "The Flying Mighty Paladin",
+      "The Flying Fantastic Cyborg"
+    ]
+  },
+  {
+    "leader": "The Leaping Enigmatic Sorcerer",
+    "score": 104,
+    "squad": [
+      "The Leaping Enigmatic Sorcerer",
+      "The Jumping Atomic Leviathan",
+      "The Bouncing Radiant Warrior",
+      "The Flying Unbreakable Telepath"
+    ]
+  },
+  {
+    "leader": "The Leaping Radiant Wizard",
+    "score": 144,
+    "squad": [
+      "The Leaping Radiant Wizard",
+      "The Bouncing Amazing Archer",
+      "The Leaping Neon Archer",
+      "The Leaping Celestial Android"
+    ]
+  },
+  {
+    "leader": "The Leaping Fierce Crusader",
+    "score": 56,
+    "squad": [
+      "The Leaping Fierce Crusader",
+      "The Flying Galactic Psychic",
+      "The Bouncing Daring Knight",
+      "The Flying Masked Soldier"
+    ]
+  },
+  {
+    "leader": "The Bouncing Luminous Leviathan",
+    "score": 136,
+    "squad": [
+      "The Bouncing Luminous Leviathan",
+      "The Leaping Radiant Cyborg",
+      "The Bouncing Unstoppable Knight",
+      "The Leaping Atomic Protector"
+    ]
+  },
+  {
+    "leader": "The Bouncing Cloaked Hero",
+    "score": 176,
+    "squad": [
+      "The Bouncing Cloaked Hero",
+      "The Bouncing Valiant Protector",
+      "The Jumping Neon Leviathan",
+      "The Leaping Fearless Golem"
+    ]
+  },
+  {
+    "leader": "The Flying Amazing Protector",
+    "score": 56,
+    "squad": [
+      "The Flying Amazing Protector",
+      "The Flying Fierce Golem",
+      "The Leaping Fierce Robot",
+      "The Leaping Quantum Avenger"
+    ]
+  },
+  {
+    "leader": "The Flying Radiant Colossus",
+    "score": 64,
+    "squad": [
+      "The Flying Radiant Colossus",
+      "The Leaping Incredible Ranger",
+      "The Bouncing Thunderous Colossus",
+      "The Bouncing Mysterious Golem"
+    ]
+  },
+  {
+    "leader": "The Bouncing Quantum Wizard",
+    "score": 56,
+    "squad": [
+      "The Bouncing Quantum Wizard",
+      "The Jumping Thunderous Automaton",
+      "The Bouncing Neon Android",
+      "The Bouncing Enigmatic Paladin"
+    ]
+  },
+  {
+    "leader": "The Leaping Daring Titan",
+    "score": 36,
+    "squad": [
+      "The Leaping Daring Titan",
+      "The Bouncing Neon Sorcerer",
+      "The Bouncing Amazing Golem",
+      "The Flying Celestial Behemoth"
+    ]
+  },
+  {
+    "leader": "The Flying Incredible Archer",
+    "score": 64,
+    "squad": [
+      "The Flying Incredible Archer",
+      "The Bouncing Quantum Leviathan",
+      "The Jumping Fearless Illusionist",
+      "The Bouncing Mysterious Sorcerer"
+    ]
+  },
+  {
+    "leader": "The Bouncing Neon Soldier",
+    "score": 176,
+    "squad": [
+      "The Bouncing Neon Soldier",
+      "The Flying Fearless Golem",
+      "The Bouncing Astral Paladin",
+      "The Flying Radiant Cyborg"
+    ]
+  },
+  {
+    "leader": "The Leaping Fearless Cyborg",
+    "score": 288,
+    "squad": [
+      "The Leaping Fearless Cyborg",
+      "The Flying Unstoppable Hero",
+      "The Leaping Thunderous Behemoth",
+      "The Bouncing Courageous Defender"
+    ]
+  },
+  {
+    "leader": "The Bouncing Neon Telepath",
+    "score": 192,
+    "squad": [
+      "The Bouncing Neon Telepath",
+      "The Jumping Quantum Soldier",
+      "The Bouncing Luminous Behemoth",
+      "The Bouncing Thunderous Defender"
+    ]
+  },
+  {
+    "leader": "The Leaping Fantastic Psychic",
+    "score": 224,
+    "squad": [
+      "The Leaping Fantastic Psychic",
+      "The Bouncing Unbreakable Leviathan",
+      "The Bouncing Astral Soldier",
+      "The Jumping Mighty Hero"
+    ]
+  },
+  {
+    "leader": "The Jumping Courageous Cyborg",
+    "score": 176,
+    "squad": [
+      "The Jumping Courageous Cyborg",
+      "The Leaping Mighty Knight",
+      "The Flying Unstoppable Leviathan",
+      "The Jumping Valiant Android"
+    ]
+  },
+  {
+    "leader": "The Flying Quantum Sentinel",
+    "score": 208,
+    "squad": [
+      "The Flying Quantum Sentinel",
+      "The Bouncing Daring Ranger",
+      "The Leaping Radiant Avenger",
+      "The Jumping Celestial Hero"
+    ]
+  },
+  {
+    "leader": "The Jumping Atomic Android",
+    "score": 208,
+    "squad": [
+      "The Jumping Atomic Android",
+      "The Flying Quantum Protector",
+      "The Leaping Masked Illusionist",
+      "The Flying Astral Warrior"
+    ]
+  },
+  {
+    "leader": "The Leaping Thunderous Hero",
+    "score": 144,
+    "squad": [
+      "The Leaping Thunderous Hero",
+      "The Jumping Invincible Guardian",
+      "The Flying Valiant Sentinel",
+      "The Leaping Valiant Hero"
+    ]
+  },
+  {
+    "leader": "The Jumping Thunderous Leviathan",
+    "score": 192,
+    "squad": [
+      "The Jumping Thunderous Leviathan",
+      "The Flying Celestial Enchanter",
+      "The Bouncing Neon Psychic",
+      "The Flying Brave Titan"
+    ]
+  },
+  {
+    "leader": "The Leaping Masked Hero",
+    "score": 208,
+    "squad": [
+      "The Leaping Masked Hero",
+      "The Jumping Incredible Behemoth",
+      "The Leaping Unbreakable Robot",
+      "The Flying Incredible Protector"
+    ]
+  },
+  {
+    "leader": "The Jumping Daring Android",
+    "score": 112,
+    "squad": [
+      "The Jumping Daring Android",
+      "The Jumping Mighty Sentinel",
+      "The Bouncing Amazing Knight",
+      "The Bouncing Cloaked Crusader"
+    ]
+  },
+  {
+    "leader": "The Jumping Astral Behemoth",
+    "score": 160,
+    "squad": [
+      "The Jumping Astral Behemoth",
+      "The Leaping Mighty Champion",
+      "The Flying Valiant Leviathan",
+      "The Flying Neon Paladin"
+    ]
+  },
+  {
+    "leader": "The Flying Mighty Mage",
+    "score": 208,
+    "squad": [
+      "The Flying Mighty Mage",
+      "The Leaping Enigmatic Avenger",
+      "The Jumping Galactic Golem",
+      "The Flying Shadowy Champion"
+    ]
+  },
+  {
+    "leader": "The Jumping Mysterious Enchanter",
+    "score": 192,
+    "squad": [
+      "The Jumping Mysterious Enchanter",
+      "The Bouncing Valiant Behemoth",
+      "The Jumping Galactic Mage",
+      "The Leaping Masked Psychic"
+    ]
+  },
+  {
+    "leader": "The Flying Neon Avenger",
+    "score": 128,
+    "squad": [
+      "The Flying Neon Avenger",
+      "The Jumping Fantastic Soldier",
+      "The Jumping Luminous Behemoth",
+      "The Jumping Mysterious Android"
+    ]
+  },
+  {
+    "leader": "The Leaping Atomic Colossus",
+    "score": 192,
+    "squad": [
+      "The Leaping Atomic Colossus",
+      "The Leaping Brave Leviathan",
+      "The Flying Brave Telepath",
+      "The Bouncing Shadowy Robot"
+    ]
+  },
+  {
+    "leader": "The Bouncing Quantum Mage",
+    "score": 240,
+    "squad": [
+      "The Bouncing Quantum Mage",
+      "The Jumping Radiant Mage",
+      "The Bouncing Unstoppable Sorcerer",
+      "The Bouncing Radiant Cyborg"
+    ]
+  },
+  {
+    "leader": "The Jumping Quantum Guardian",
+    "score": 104,
+    "squad": [
+      "The Jumping Quantum Guardian",
+      "The Jumping Radiant Robot",
+      "The Flying Fantastic Hero",
+      "The Leaping Brave Avenger"
+    ]
+  },
+  {
+    "leader": "The Leaping Quantum Knight",
+    "score": 224,
+    "squad": [
+      "The Leaping Quantum Knight",
+      "The Jumping Enigmatic Android",
+      "The Flying Mighty Behemoth",
+      "The Flying Cloaked Defender"
+    ]
+  },
+  {
+    "leader": "The Bouncing Courageous Hero",
+    "score": 240,
+    "squad": [
+      "The Bouncing Courageous Hero",
+      "The Leaping Quantum Warrior",
+      "The Flying Amazing Titan",
+      "The Bouncing Galactic Avenger"
+    ]
+  },
+  {
+    "leader": "The Jumping Cloaked Mage",
+    "score": 120,
+    "squad": [
+      "The Jumping Cloaked Mage",
+      "The Jumping Shadowy Knight",
+      "The Leaping Noble Protector",
+      "The Jumping Enigmatic Knight"
+    ]
+  },
+  {
+    "leader": "The Flying Galactic Telepath",
+    "score": 176,
+    "squad": [
+      "The Flying Galactic Telepath",
+      "The Flying Unstoppable Psychic",
+      "The Leaping Invincible Telepath",
+      "The Leaping Cosmic Golem"
+    ]
+  },
+  {
+    "leader": "The Flying Mighty Ranger",
+    "score": 208,
+    "squad": [
+      "The Flying Mighty Ranger",
+      "The Bouncing Radiant Sentinel",
+      "The Flying Masked Cyborg",
+      "The Flying Fierce Archer"
+    ]
+  },
+  {
+    "leader": "The Bouncing Shadowy Cyborg",
+    "score": 160,
+    "squad": [
+      "The Bouncing Shadowy Cyborg",
+      "The Bouncing Cosmic Defender",
+      "The Flying Courageous Wizard",
+      "The Bouncing Noble Warrior"
+    ]
+  },
+  {
+    "leader": "The Leaping Amazing Archer",
+    "score": 64,
+    "squad": [
+      "The Leaping Amazing Archer",
+      "The Leaping Unstoppable Golem",
+      "The Jumping Amazing Mage",
+      "The Jumping Amazing Robot"
+    ]
+  },
+  {
+    "leader": "The Flying Incredible Guardian",
+    "score": 96,
+    "squad": [
+      "The Flying Incredible Guardian",
+      "The Leaping Fierce Android",
+      "The Jumping Valiant Titan",
+      "The Jumping Noble Sentinel"
+    ]
+  },
+  {
+    "leader": "The Leaping Quantum Mage",
+    "score": 64,
+    "squad": [
+      "The Leaping Quantum Mage",
+      "The Jumping Invincible Automaton",
+      "The Bouncing Brave Soldier",
+      "The Leaping Incredible Colossus"
+    ]
+  },
+  {
+    "leader": "The Bouncing Cloaked Defender",
+    "score": 34,
+    "squad": [
+      "The Bouncing Cloaked Defender",
+      "The Flying Mysterious Archer",
+      "The Jumping Fearless Robot",
+      "The Leaping Daring Mage"
+    ]
+  },
+  {
+    "leader": "The Jumping Galactic Defender",
+    "score": 120,
+    "squad": [
+      "The Jumping Galactic Defender",
+      "The Bouncing Unbreakable Defender",
+      "The Bouncing Noble Protector",
+      "The Jumping Cosmic Soldier"
+    ]
+  },
+  {
+    "leader": "The Jumping Noble Mage",
+    "score": 104,
+    "squad": [
+      "The Jumping Noble Mage",
+      "The Leaping Astral Sorcerer",
+      "The Flying Valiant Defender",
+      "The Bouncing Cloaked Enchanter"
+    ]
+  },
+  {
+    "leader": "The Bouncing Neon Illusionist",
+    "score": 176,
+    "squad": [
+      "The Bouncing Neon Illusionist",
+      "The Flying Masked Sentinel",
+      "The Bouncing Celestial Warrior",
+      "The Bouncing Astral Illusionist"
+    ]
+  },
+  {
+    "leader": "The Leaping Atomic Telepath",
+    "score": 68,
+    "squad": [
+      "The Leaping Atomic Telepath",
+      "The Flying Astral Paladin",
+      "The Flying Celestial Automaton",
+      "The Jumping Quantum Leviathan"
+    ]
+  },
+  {
+    "leader": "The Leaping Unstoppable Mage",
+    "score": 56,
+    "squad": [
+      "The Leaping Unstoppable Mage",
+      "The Jumping Brave Soldier",
+      "The Flying Cloaked Colossus",
+      "The Flying Fearless Robot"
+    ]
+  },
+  {
+    "leader": "The Flying Masked Psychic",
+    "score": 104,
+    "squad": [
+      "The Flying Masked Psychic",
+      "The Flying Valiant Archer",
+      "The Bouncing Masked Ranger",
+      "The Bouncing Fierce Automaton"
+    ]
+  },
+  {
+    "leader": "The Leaping Masked Paladin",
+    "score": 56,
+    "squad": [
+      "The Leaping Masked Paladin",
+      "The Leaping Daring Protector",
+      "The Leaping Astral Colossus",
+      "The Flying Radiant Warrior"
+    ]
+  },
+  {
+    "leader": "The Jumping Daring Archer",
+    "score": 120,
+    "squad": [
+      "The Jumping Daring Archer",
+      "The Jumping Shadowy Illusionist",
+      "The Jumping Brave Protector",
+      "The Bouncing Electric Automaton"
+    ]
+  },
+  {
+    "leader": "The Flying Brave Colossus",
+    "score": 52,
+    "squad": [
+      "The Flying Brave Colossus",
+      "The Bouncing Quantum Guardian",
+      "The Leaping Radiant Psychic",
+      "The Flying Neon Hero"
+    ]
+  },
+  {
+    "leader": "The Leaping Luminous Archer",
+    "score": 128,
+    "squad": [
+      "The Leaping Luminous Archer",
+      "The Leaping Incredible Automaton",
+      "The Jumping Celestial Archer",
+      "The Jumping Unstoppable Archer"
+    ]
+  },
+  {
+    "leader": "The Jumping Galactic Enchanter",
+    "score": 120,
+    "squad": [
+      "The Jumping Galactic Enchanter",
+      "The Jumping Mysterious Crusader",
+      "The Leaping Radiant Titan",
+      "The Flying Amazing Avenger"
+    ]
+  },
+  {
+    "leader": "The Jumping Fantastic Paladin",
+    "score": 104,
+    "squad": [
+      "The Jumping Fantastic Paladin",
+      "The Flying Luminous Colossus",
+      "The Bouncing Cloaked Mage",
+      "The Jumping Celestial Crusader"
+    ]
+  },
+  {
+    "leader": "The Leaping Quantum Defender",
+    "score": 112,
+    "squad": [
+      "The Leaping Quantum Defender",
+      "The Bouncing Invincible Illusionist",
+      "The Flying Mysterious Cyborg",
+      "The Leaping Shadowy Soldier"
+    ]
+  },
+  {
+    "leader": "The Bouncing Quantum Defender",
+    "score": 128,
+    "squad": [
+      "The Bouncing Quantum Defender",
+      "The Leaping Brave Robot",
+      "The Flying Cosmic Behemoth",
+      "The Jumping Quantum Sentinel"
+    ]
+  },
+  {
+    "leader": "The Leaping Radiant Hero",
+    "score": 128,
+    "squad": [
+      "The Leaping Radiant Hero",
+      "The Leaping Thunderous Wizard",
+      "The Jumping Courageous Wizard",
+      "The Jumping Cloaked Knight"
+    ]
+  },
+  {
+    "leader": "The Leaping Shadowy Defender",
+    "score": 128,
+    "squad": [
+      "The Leaping Shadowy Defender",
+      "The Leaping Brave Behemoth",
+      "The Flying Mysterious Colossus",
+      "The Bouncing Unbreakable Ranger"
+    ]
+  },
+  {
+    "leader": "The Leaping Daring Colossus",
+    "score": 144,
+    "squad": [
+      "The Leaping Daring Colossus",
+      "The Flying Thunderous Cyborg",
+      "The Jumping Celestial Illusionist",
+      "The Leaping Neon Golem"
+    ]
+  },
+  {
+    "leader": "The Flying Thunderous Colossus",
+    "score": 136,
+    "squad": [
+      "The Flying Thunderous Colossus",
+      "The Leaping Valiant Paladin",
+      "The Leaping Masked Archer",
+      "The Leaping Celestial Leviathan"
+    ]
+  },
+  {
+    "leader": "The Flying Mysterious Defender",
+    "score": 120,
+    "squad": [
+      "The Flying Mysterious Defender",
+      "The Leaping Valiant Soldier",
+      "The Leaping Brave Champion",
+      "The Flying Incredible Paladin"
+    ]
+  },
+  {
+    "leader": "The Bouncing Shadowy Knight",
+    "score": 120,
+    "squad": [
+      "The Bouncing Shadowy Knight",
+      "The Bouncing Luminous Robot",
+      "The Bouncing Unbreakable Knight",
+      "The Bouncing Enigmatic Ranger"
+    ]
+  },
+  {
+    "leader": "The Jumping Invincible Crusader",
+    "score": 120,
+    "squad": [
+      "The Jumping Invincible Crusader",
+      "The Leaping Valiant Champion",
+      "The Jumping Noble Crusader",
+      "The Jumping Mysterious Colossus"
+    ]
+  },
+  {
+    "leader": "The Leaping Mysterious Automaton",
+    "score": 240,
+    "squad": [
+      "The Leaping Mysterious Automaton",
+      "The Bouncing Electric Sentinel",
+      "The Leaping Mysterious Avenger",
+      "The Leaping Courageous Crusader"
+    ]
+  },
+  {
+    "leader": "The Flying Fantastic Sorcerer",
+    "score": 104,
+    "squad": [
+      "The Flying Fantastic Sorcerer",
+      "The Flying Unstoppable Warrior",
+      "The Jumping Amazing Illusionist",
+      "The Leaping Radiant Soldier"
+    ]
+  },
+  {
+    "leader": "The Leaping Mysterious Defender",
+    "score": 60,
+    "squad": [
+      "The Leaping Mysterious Defender",
+      "The Leaping Mighty Protector",
+      "The Flying Quantum Avenger",
+      "The Leaping Quantum Android"
+    ]
+  },
+  {
+    "leader": "The Jumping Mighty Leviathan",
+    "score": 96,
+    "squad": [
+      "The Jumping Mighty Leviathan",
+      "The Leaping Valiant Automaton",
+      "The Flying Incredible Sentinel",
+      "The Bouncing Luminous Android"
+    ]
+  },
+  {
+    "leader": "The Flying Thunderous Leviathan",
+    "score": 38,
+    "squad": [
+      "The Flying Thunderous Leviathan",
+      "The Jumping Galactic Knight",
+      "The Bouncing Neon Leviathan",
+      "The Leaping Radiant Sorcerer"
+    ]
+  },
+  {
+    "leader": "The Leaping Cloaked Ranger",
+    "score": 64,
+    "squad": [
+      "The Leaping Cloaked Ranger",
+      "The Leaping Radiant Knight",
+      "The Jumping Radiant Paladin",
+      "The Bouncing Neon Automaton"
+    ]
+  },
+  {
+    "leader": "The Flying Astral Cyborg",
+    "score": 21,
+    "squad": [
+      "The Flying Astral Cyborg",
+      "The Flying Valiant Titan",
+      "The Bouncing Celestial Automaton",
+      "The Leaping Noble Telepath"
+    ]
+  },
+  {
+    "leader": "The Flying Atomic Defender",
+    "score": 112,
+    "squad": [
+      "The Flying Atomic Defender",
+      "The Bouncing Quantum Paladin",
+      "The Flying Masked Champion",
+      "The Flying Cloaked Crusader"
+    ]
+  },
+  {
+    "leader": "The Bouncing Mighty Crusader",
+    "score": 76,
+    "squad": [
+      "The Bouncing Mighty Crusader",
+      "The Leaping Invincible Psychic",
+      "The Flying Quantum Archer",
+      "The Leaping Atomic Robot"
+    ]
+  },
+  {
+    "leader": "The Flying Shadowy Android",
+    "score": 38,
+    "squad": [
+      "The Flying Shadowy Android",
+      "The Leaping Daring Champion",
+      "The Leaping Shadowy Titan",
+      "The Flying Valiant Mage"
+    ]
+  },
+  {
+    "leader": "The Leaping Amazing Hero",
+    "score": 34,
+    "squad": [
+      "The Leaping Amazing Hero",
+      "The Leaping Radiant Behemoth",
+      "The Bouncing Cosmic Warrior",
+      "The Bouncing Invincible Titan"
+    ]
+  },
+  {
+    "leader": "The Bouncing Amazing Ranger",
+    "score": 21,
+    "squad": [
+      "The Bouncing Amazing Ranger",
+      "The Jumping Atomic Automaton",
+      "The Jumping Courageous Sentinel",
+      "The Jumping Electric Android"
+    ]
+  },
+  {
+    "leader": "The Bouncing Quantum Automaton",
+    "score": 68,
+    "squad": [
+      "The Bouncing Quantum Automaton",
+      "The Jumping Cloaked Cyborg",
+      "The Leaping Masked Sentinel",
+      "The Bouncing Celestial Illusionist"
+    ]
+  },
+  {
+    "leader": "The Leaping Invincible Sentinel",
+    "score": 120,
+    "squad": [
+      "The Leaping Invincible Sentinel",
+      "The Jumping Valiant Wizard",
+      "The Jumping Unbreakable Paladin",
+      "The Flying Amazing Enchanter"
+    ]
+  },
+  {
+    "leader": "The Flying Fantastic Robot",
+    "score": 120,
+    "squad": [
+      "The Flying Fantastic Robot",
+      "The Leaping Neon Robot",
+      "The Leaping Quantum Titan",
+      "The Bouncing Mighty Titan"
+    ]
+  },
+  {
+    "leader": "The Flying Galactic Cyborg",
+    "score": 128,
+    "squad": [
+      "The Flying Galactic Cyborg",
+      "The Bouncing Cloaked Soldier",
+      "The Leaping Unstoppable Hero",
+      "The Bouncing Masked Wizard"
+    ]
+  },
+  {
+    "leader": "The Flying Daring Illusionist",
+    "score": 128,
+    "squad": [
+      "The Flying Daring Illusionist",
+      "The Leaping Unstoppable Knight",
+      "The Flying Unbreakable Titan",
+      "The Jumping Cosmic Archer"
+    ]
+  },
+  {
+    "leader": "The Leaping Cloaked Paladin",
+    "score": 96,
+    "squad": [
+      "The Leaping Cloaked Paladin",
+      "The Jumping Cosmic Colossus",
+      "The Leaping Astral Enchanter",
+      "The Jumping Invincible Telepath"
+    ]
+  },
+  {
+    "leader": "The Bouncing Fearless Automaton",
+    "score": 112,
+    "squad": [
+      "The Bouncing Fearless Automaton",
+      "The Flying Incredible Illusionist",
+      "The Flying Daring Protector",
+      "The Flying Fierce Crusader"
+    ]
+  },
+  {
+    "leader": "The Jumping Quantum Mage",
+    "score": 112,
+    "squad": [
+      "The Jumping Quantum Mage",
+      "The Leaping Unstoppable Warrior",
+      "The Flying Courageous Telepath",
+      "The Jumping Atomic Colossus"
+    ]
+  },
+  {
+    "leader": "The Leaping Fantastic Leviathan",
+    "score": 120,
+    "squad": [
+      "The Leaping Fantastic Leviathan",
+      "The Jumping Incredible Soldier",
+      "The Flying Atomic Crusader",
+      "The Bouncing Fierce Psychic"
+    ]
+  },
+  {
+    "leader": "The Leaping Fearless Warrior",
+    "score": 120,
+    "squad": [
+      "The Leaping Fearless Warrior",
+      "The Leaping Mighty Mage",
+      "The Flying Neon Crusader",
+      "The Flying Amazing Crusader"
+    ]
+  },
+  {
+    "leader": "The Jumping Fearless Guardian",
+    "score": 80,
+    "squad": [
+      "The Jumping Fearless Guardian",
+      "The Bouncing Quantum Illusionist",
+      "The Bouncing Atomic Cyborg",
+      "The Flying Amazing Automaton"
+    ]
+  },
+  {
+    "leader": "The Bouncing Brave Paladin",
+    "score": 128,
+    "squad": [
+      "The Bouncing Brave Paladin",
+      "The Flying Unstoppable Guardian",
+      "The Jumping Galactic Colossus",
+      "The Jumping Fierce Warrior"
+    ]
+  },
+  {
+    "leader": "The Flying Celestial Crusader",
+    "score": 112,
+    "squad": [
+      "The Flying Celestial Crusader",
+      "The Flying Cosmic Illusionist",
+      "The Bouncing Shadowy Paladin",
+      "The Flying Shadowy Paladin"
+    ]
+  },
+  {
+    "leader": "The Bouncing Astral Android",
+    "score": 120,
+    "squad": [
+      "The Bouncing Astral Android",
+      "The Jumping Celestial Golem",
+      "The Flying Invincible Ranger",
+      "The Bouncing Fearless Psychic"
+    ]
+  },
+  {
+    "leader": "The Bouncing Courageous Knight",
+    "score": 64,
+    "squad": [
+      "The Bouncing Courageous Knight",
+      "The Bouncing Atomic Defender",
+      "The Leaping Cloaked Archer",
+      "The Bouncing Neon Hero"
+    ]
+  },
+  {
+    "leader": "The Leaping Amazing Telepath",
+    "score": 240,
+    "squad": [
+      "The Leaping Amazing Telepath",
+      "The Leaping Shadowy Cyborg",
+      "The Leaping Electric Sorcerer",
+      "The Flying Brave Archer"
+    ]
+  },
+  {
+    "leader": "The Jumping Astral Golem",
+    "score": 56,
+    "squad": [
+      "The Jumping Astral Golem",
+      "The Leaping Fearless Psychic",
+      "The Bouncing Brave Wizard",
+      "The Jumping Brave Hero"
+    ]
+  },
+  {
+    "leader": "The Jumping Noble Soldier",
+    "score": 80,
+    "squad": [
+      "The Jumping Noble Soldier",
+      "The Bouncing Noble Soldier",
+      "The Jumping Neon Enchanter",
+      "The Bouncing Atomic Telepath"
+    ]
+  },
+  {
+    "leader": "The Jumping Masked Android",
+    "score": 48,
+    "squad": [
+      "The Jumping Masked Android",
+      "The Leaping Fearless Crusader",
+      "The Jumping Astral Hero",
+      "The Leaping Atomic Warrior"
+    ]
+  },
+  {
+    "leader": "The Bouncing Thunderous Sorcerer",
+    "score": 136,
+    "squad": [
+      "The Bouncing Thunderous Sorcerer",
+      "The Jumping Celestial Wizard",
+      "The Jumping Neon Behemoth",
+      "The Bouncing Courageous Psychic"
+    ]
+  },
+  {
+    "leader": "The Leaping Celestial Mage",
+    "score": 60,
+    "squad": [
+      "The Leaping Celestial Mage",
+      "The Leaping Fantastic Warrior",
+      "The Leaping Valiant Cyborg",
+      "The Leaping Noble Guardian"
+    ]
+  },
+  {
+    "leader": "The Jumping Cosmic Automaton",
+    "score": 56,
+    "squad": [
+      "The Jumping Cosmic Automaton",
+      "The Jumping Incredible Guardian",
+      "The Leaping Radiant Paladin",
+      "The Leaping Courageous Paladin"
+    ]
+  },
+  {
+    "leader": "The Bouncing Quantum Cyborg",
+    "score": 88,
+    "squad": [
+      "The Bouncing Quantum Cyborg",
+      "The Leaping Neon Automaton",
+      "The Jumping Shadowy Telepath",
+      "The Bouncing Radiant Sorcerer"
+    ]
+  },
+  {
+    "leader": "The Bouncing Unstoppable Psychic",
+    "score": 52,
+    "squad": [
+      "The Bouncing Unstoppable Psychic",
+      "The Leaping Brave Crusader",
+      "The Leaping Atomic Automaton",
+      "The Leaping Astral Warrior"
+    ]
+  },
+  {
+    "leader": "The Jumping Cloaked Telepath",
+    "score": 80,
+    "squad": [
+      "The Jumping Cloaked Telepath",
+      "The Bouncing Mighty Mage",
+      "The Flying Valiant Soldier",
+      "The Jumping Invincible Mage"
+    ]
+  },
+  {
+    "leader": "The Leaping Cosmic Archer",
+    "score": 52,
+    "squad": [
+      "The Leaping Cosmic Archer",
+      "The Leaping Courageous Android",
+      "The Jumping Incredible Automaton",
+      "The Flying Brave Golem"
+    ]
+  },
+  {
+    "leader": "The Leaping Unbreakable Soldier",
+    "score": 32,
+    "squad": [
+      "The Leaping Unbreakable Soldier",
+      "The Leaping Courageous Psychic",
+      "The Jumping Atomic Avenger",
+      "The Flying Radiant Titan"
+    ]
+  },
+  {
+    "leader": "The Flying Galactic Automaton",
+    "score": 56,
+    "squad": [
+      "The Flying Galactic Automaton",
+      "The Flying Shadowy Robot",
+      "The Leaping Cloaked Robot",
+      "The Bouncing Mysterious Hero"
+    ]
+  },
+  {
+    "leader": "The Leaping Cosmic Automaton",
+    "score": 120,
+    "squad": [
+      "The Leaping Cosmic Automaton",
+      "The Leaping Masked Telepath",
+      "The Leaping Incredible Psychic",
+      "The Leaping Neon Colossus"
+    ]
+  },
+  {
+    "leader": "The Flying Mighty Illusionist",
+    "score": 36,
+    "squad": [
+      "The Flying Mighty Illusionist",
+      "The Flying Daring Ranger",
+      "The Flying Incredible Knight",
+      "The Bouncing Radiant Automaton"
+    ]
+  },
+  {
+    "leader": "The Jumping Fierce Colossus",
+    "score": 36,
+    "squad": [
+      "The Jumping Fierce Colossus",
+      "The Bouncing Mighty Defender",
+      "The Flying Radiant Golem",
+      "The Bouncing Fantastic Avenger"
+    ]
+  },
+  {
+    "leader": "The Jumping Fierce Cyborg",
+    "score": 56,
+    "squad": [
+      "The Jumping Fierce Cyborg",
+      "The Flying Enigmatic Avenger",
+      "The Jumping Fearless Golem",
+      "The Flying Neon Defender"
+    ]
+  },
+  {
+    "leader": "The Flying Fantastic Paladin",
+    "score": 20,
+    "squad": [
+      "The Flying Fantastic Paladin",
+      "The Jumping Courageous Hero",
+      "The Jumping Atomic Champion",
+      "The Jumping Valiant Leviathan"
+    ]
+  },
+  {
+    "leader": "The Bouncing Quantum Titan",
+    "score": 72,
+    "squad": [
+      "The Bouncing Quantum Titan",
+      "The Leaping Radiant Sentinel",
+      "The Leaping Noble Automaton",
+      "The Bouncing Cloaked Ranger"
+    ]
+  },
+  {
+    "leader": "The Leaping Mighty Wizard",
+    "score": 192,
+    "squad": [
+      "The Leaping Mighty Wizard",
+      "The Leaping Cloaked Defender",
+      "The Jumping Shadowy Avenger",
+      "The Jumping Enigmatic Archer"
+    ]
+  },
+  {
+    "leader": "The Bouncing Quantum Robot",
+    "score": 64,
+    "squad": [
+      "The Bouncing Quantum Robot",
+      "The Jumping Daring Defender",
+      "The Bouncing Electric Paladin",
+      "The Flying Fearless Crusader"
+    ]
+  },
+  {
+    "leader": "The Jumping Mysterious Leviathan",
+    "score": 80,
+    "squad": [
+      "The Jumping Mysterious Leviathan",
+      "The Jumping Cloaked Automaton",
+      "The Flying Quantum Golem",
+      "The Leaping Noble Defender"
+    ]
+  },
+  {
+    "leader": "The Jumping Fierce Illusionist",
+    "score": 96,
+    "squad": [
+      "The Jumping Fierce Illusionist",
+      "The Leaping Luminous Automaton",
+      "The Jumping Unbreakable Knight",
+      "The Flying Fierce Enchanter"
+    ]
+  },
+  {
+    "leader": "The Flying Amazing Archer",
+    "score": 112,
+    "squad": [
+      "The Flying Amazing Archer",
+      "The Jumping Noble Protector",
+      "The Bouncing Mysterious Illusionist",
+      "The Bouncing Galactic Defender"
+    ]
+  },
+  {
+    "leader": "The Leaping Unbreakable Enchanter",
+    "score": 72,
+    "squad": [
+      "The Leaping Unbreakable Enchanter",
+      "The Jumping Quantum Hero",
+      "The Flying Daring Behemoth",
+      "The Flying Valiant Knight"
+    ]
+  },
+  {
+    "leader": "The Bouncing Amazing Automaton",
+    "score": 80,
+    "squad": [
+      "The Bouncing Amazing Automaton",
+      "The Jumping Shadowy Guardian",
+      "The Leaping Brave Enchanter",
+      "The Leaping Cosmic Enchanter"
+    ]
+  },
+  {
+    "leader": "The Leaping Daring Sorcerer",
+    "score": 80,
+    "squad": [
+      "The Leaping Daring Sorcerer",
+      "The Bouncing Enigmatic Champion",
+      "The Leaping Quantum Hero",
+      "The Jumping Neon Sentinel"
+    ]
+  },
+  {
+    "leader": "The Jumping Courageous Knight",
+    "score": 80,
+    "squad": [
+      "The Jumping Courageous Knight",
+      "The Jumping Enigmatic Robot",
+      "The Bouncing Invincible Colossus",
+      "The Leaping Neon Cyborg"
+    ]
+  },
+  {
+    "leader": "The Leaping Invincible Warrior",
+    "score": 112,
+    "squad": [
+      "The Leaping Invincible Warrior",
+      "The Bouncing Mighty Sorcerer",
+      "The Bouncing Mighty Colossus",
+      "The Jumping Fantastic Avenger"
+    ]
+  },
+  {
+    "leader": "The Leaping Courageous Sorcerer",
+    "score": 80,
+    "squad": [
+      "The Leaping Courageous Sorcerer",
+      "The Flying Neon Soldier",
+      "The Bouncing Neon Behemoth",
+      "The Bouncing Electric Enchanter"
+    ]
+  },
+  {
+    "leader": "The Jumping Quantum Android",
+    "score": 104,
+    "squad": [
+      "The Jumping Quantum Android",
+      "The Bouncing Daring Sentinel",
+      "The Jumping Unstoppable Illusionist",
+      "The Bouncing Enigmatic Knight"
+    ]
+  },
+  {
+    "leader": "The Jumping Unbreakable Hero",
+    "score": 80,
+    "squad": [
+      "The Jumping Unbreakable Hero",
+      "The Bouncing Quantum Hero",
+      "The Bouncing Valiant Leviathan",
+      "The Leaping Electric Knight"
+    ]
+  },
+  {
+    "leader": "The Jumping Fearless Enchanter",
+    "score": 88,
+    "squad": [
+      "The Jumping Fearless Enchanter",
+      "The Leaping Fearless Enchanter",
+      "The Leaping Cosmic Knight",
+      "The Leaping Cosmic Psychic"
+    ]
+  },
+  {
+    "leader": "The Flying Thunderous Protector",
+    "score": 88,
+    "squad": [
+      "The Flying Thunderous Protector",
+      "The Leaping Electric Leviathan",
+      "The Flying Fearless Avenger",
+      "The Flying Mysterious Guardian"
+    ]
+  },
+  {
+    "leader": "The Bouncing Fierce Wizard",
+    "score": 112,
+    "squad": [
+      "The Bouncing Fierce Wizard",
+      "The Bouncing Cloaked Titan",
+      "The Flying Brave Hero",
+      "The Flying Celestial Sorcerer"
+    ]
+  },
+  {
+    "leader": "The Flying Brave Android",
+    "score": 64,
+    "squad": [
+      "The Flying Brave Android",
+      "The Flying Enigmatic Ranger",
+      "The Bouncing Unstoppable Telepath",
+      "The Jumping Unstoppable Protector"
+    ]
+  },
+  {
+    "leader": "The Flying Mysterious Illusionist",
+    "score": 96,
+    "squad": [
+      "The Flying Mysterious Illusionist",
+      "The Leaping Fierce Avenger",
+      "The Bouncing Fearless Android",
+      "The Jumping Fearless Cyborg"
+    ]
+  },
+  {
+    "leader": "The Jumping Luminous Defender",
+    "score": 68,
+    "squad": [
+      "The Jumping Luminous Defender",
+      "The Leaping Astral Cyborg",
+      "The Jumping Fierce Mage",
+      "The Jumping Radiant Wizard"
+    ]
+  },
+  {
+    "leader": "The Bouncing Celestial Cyborg",
+    "score": 60,
+    "squad": [
+      "The Bouncing Celestial Cyborg",
+      "The Jumping Unbreakable Android",
+      "The Flying Galactic Wizard",
+      "The Bouncing Unbreakable Crusader"
+    ]
+  },
+  {
+    "leader": "The Jumping Cosmic Crusader",
+    "score": 52,
+    "squad": [
+      "The Jumping Cosmic Crusader",
+      "The Flying Cloaked Telepath",
+      "The Bouncing Fierce Guardian",
+      "The Bouncing Celestial Android"
+    ]
+  },
+  {
+    "leader": "The Jumping Cloaked Sentinel",
+    "score": 88,
+    "squad": [
+      "The Jumping Cloaked Sentinel",
+      "The Leaping Galactic Ranger",
+      "The Leaping Cloaked Sorcerer",
+      "The Leaping Enigmatic Champion"
+    ]
+  },
+  {
+    "leader": "The Leaping Fearless Illusionist",
+    "score": 52,
+    "squad": [
+      "The Leaping Fearless Illusionist",
+      "The Leaping Masked Sorcerer",
+      "The Bouncing Masked Soldier",
+      "The Leaping Amazing Knight"
+    ]
+  },
+  {
+    "leader": "The Leaping Electric Illusionist",
+    "score": 56,
+    "squad": [
+      "The Leaping Electric Illusionist",
+      "The Leaping Luminous Telepath",
+      "The Jumping Astral Psychic",
+      "The Leaping Fearless Wizard"
+    ]
+  },
+  {
+    "leader": "The Jumping Thunderous Cyborg",
+    "score": 18,
+    "squad": [
+      "The Jumping Thunderous Cyborg",
+      "The Bouncing Thunderous Automaton",
+      "The Leaping Neon Telepath",
+      "The Jumping Cosmic Sentinel"
+    ]
+  },
+  {
+    "leader": "The Bouncing Galactic Illusionist",
+    "score": 32,
+    "squad": [
+      "The Bouncing Galactic Illusionist",
+      "The Leaping Incredible Enchanter",
+      "The Leaping Enigmatic Ranger",
+      "The Leaping Cloaked Soldier"
+    ]
+  },
+  {
+    "leader": "The Bouncing Incredible Titan",
+    "score": 28,
+    "squad": [
+      "The Bouncing Incredible Titan",
+      "The Flying Incredible Avenger",
+      "The Bouncing Electric Illusionist",
+      "The Flying Masked Titan"
+    ]
+  },
+  {
+    "leader": "The Jumping Noble Guardian",
+    "score": 96,
+    "squad": [
+      "The Jumping Noble Guardian",
+      "The Flying Fearless Sentinel",
+      "The Flying Fearless Enchanter",
+      "The Jumping Unbreakable Soldier"
+    ]
+  },
+  {
+    "leader": "The Jumping Courageous Ranger",
+    "score": 30,
+    "squad": [
+      "The Jumping Courageous Ranger",
+      "The Bouncing Mysterious Enchanter",
+      "The Flying Masked Hero",
+      "The Leaping Unbreakable Crusader"
+    ]
+  },
+  {
+    "leader": "The Flying Mysterious Android",
+    "score": 96,
+    "squad": [
+      "The Flying Mysterious Android",
+      "The Jumping Cloaked Titan",
+      "The Leaping Galactic Psychic",
+      "The Bouncing Radiant Wizard"
+    ]
+  },
+  {
+    "leader": "The Jumping Fantastic Protector",
+    "score": 60,
+    "squad": [
+      "The Jumping Fantastic Protector",
+      "The Bouncing Galactic Android",
+      "The Jumping Atomic Golem",
+      "The Leaping Luminous Defender"
+    ]
+  },
+  {
+    "leader": "The Leaping Daring Psychic",
+    "score": 60,
+    "squad": [
+      "The Leaping Daring Psychic",
+      "The Bouncing Unstoppable Avenger",
+      "The Flying Unbreakable Leviathan",
+      "The Leaping Astral Soldier"
+    ]
+  },
+  {
+    "leader": "The Flying Galactic Protector",
+    "score": 28,
+    "squad": [
+      "The Flying Galactic Protector",
+      "The Bouncing Celestial Robot",
+      "The Jumping Fierce Avenger",
+      "The Flying Valiant Wizard"
+    ]
+  },
+  {
+    "leader": "The Bouncing Incredible Enchanter",
+    "score": 28,
+    "squad": [
+      "The Bouncing Incredible Enchanter",
+      "The Jumping Cloaked Defender",
+      "The Leaping Amazing Psychic",
+      "The Bouncing Invincible Sorcerer"
+    ]
+  },
+  {
+    "leader": "The Bouncing Courageous Android",
+    "score": 104,
+    "squad": [
+      "The Bouncing Courageous Android",
+      "The Flying Shadowy Automaton",
+      "The Bouncing Incredible Automaton",
+      "The Jumping Daring Colossus"
+    ]
+  },
+  {
+    "leader": "The Leaping Thunderous Enchanter",
+    "score": 208,
+    "squad": [
+      "The Leaping Thunderous Enchanter",
+      "The Bouncing Radiant Protector",
+      "The Leaping Incredible Robot",
+      "The Leaping Invincible Avenger"
+    ]
+  },
+  {
+    "leader": "The Jumping Invincible Wizard",
+    "score": 52,
+    "squad": [
+      "The Jumping Invincible Wizard",
+      "The Bouncing Brave Crusader",
+      "The Jumping Luminous Hero",
+      "The Jumping Valiant Colossus"
+    ]
+  },
+  {
+    "leader": "The Flying Atomic Sorcerer",
+    "score": 72,
+    "squad": [
+      "The Flying Atomic Sorcerer",
+      "The Flying Fierce Champion",
+      "The Leaping Enigmatic Crusader",
+      "The Jumping Luminous Champion"
+    ]
+  },
+  {
+    "leader": "The Leaping Cloaked Android",
+    "score": 104,
+    "squad": [
+      "The Leaping Cloaked Android",
+      "The Jumping Galactic Avenger",
+      "The Leaping Quantum Telepath",
+      "The Flying Astral Enchanter"
+    ]
+  },
+  {
+    "leader": "The Jumping Incredible Sentinel",
+    "score": 64,
+    "squad": [
+      "The Jumping Incredible Sentinel",
+      "The Jumping Unstoppable Titan",
+      "The Flying Unbreakable Crusader",
+      "The Jumping Galactic Soldier"
+    ]
+  },
+  {
+    "leader": "The Flying Amazing Android",
+    "score": 56,
+    "squad": [
+      "The Flying Amazing Android",
+      "The Bouncing Unstoppable Illusionist",
+      "The Bouncing Fearless Archer",
+      "The Jumping Quantum Paladin"
+    ]
+  },
+  {
+    "leader": "The Bouncing Thunderous Robot",
+    "score": 52,
+    "squad": [
+      "The Bouncing Thunderous Robot",
+      "The Leaping Fantastic Ranger",
+      "The Jumping Shadowy Golem",
+      "The Leaping Enigmatic Sentinel"
+    ]
+  },
+  {
+    "leader": "The Leaping Invincible Ranger",
+    "score": 96,
+    "squad": [
+      "The Leaping Invincible Ranger",
+      "The Jumping Fierce Behemoth",
+      "The Bouncing Cloaked Warrior",
+      "The Bouncing Masked Crusader"
+    ]
+  },
+  {
+    "leader": "The Bouncing Mysterious Telepath",
+    "score": 112,
+    "squad": [
+      "The Bouncing Mysterious Telepath",
+      "The Flying Quantum Psychic",
+      "The Jumping Neon Colossus",
+      "The Flying Courageous Defender"
+    ]
+  },
+  {
+    "leader": "The Jumping Shadowy Leviathan",
+    "score": 80,
+    "squad": [
+      "The Jumping Shadowy Leviathan",
+      "The Leaping Luminous Soldier",
+      "The Jumping Cosmic Robot",
+      "The Flying Quantum Enchanter"
+    ]
+  },
+  {
+    "leader": "The Jumping Astral Defender",
+    "score": 88,
+    "squad": [
+      "The Jumping Astral Defender",
+      "The Flying Brave Paladin",
+      "The Jumping Thunderous Soldier",
+      "The Bouncing Noble Mage"
+    ]
+  },
+  {
+    "leader": "The Leaping Daring Robot",
+    "score": 48,
+    "squad": [
+      "The Leaping Daring Robot",
+      "The Jumping Radiant Avenger",
+      "The Leaping Noble Sorcerer",
+      "The Bouncing Incredible Crusader"
+    ]
+  },
+  {
+    "leader": "The Bouncing Enigmatic Titan",
+    "score": 30,
+    "squad": [
+      "The Bouncing Enigmatic Titan",
+      "The Flying Cloaked Soldier",
+      "The Bouncing Noble Robot",
+      "The Leaping Fearless Titan"
+    ]
+  },
+  {
+    "leader": "The Bouncing Astral Telepath",
+    "score": 64,
+    "squad": [
+      "The Bouncing Astral Telepath",
+      "The Leaping Unbreakable Behemoth",
+      "The Leaping Amazing Cyborg",
+      "The Leaping Invincible Enchanter"
+    ]
+  },
+  {
+    "leader": "The Leaping Amazing Leviathan",
+    "score": 88,
+    "squad": [
+      "The Leaping Amazing Leviathan",
+      "The Bouncing Neon Champion",
+      "The Leaping Neon Warrior",
+      "The Flying Electric Wizard"
+    ]
+  },
+  {
+    "leader": "The Leaping Fantastic Knight",
+    "score": 104,
+    "squad": [
+      "The Leaping Fantastic Knight",
+      "The Leaping Courageous Defender",
+      "The Leaping Shadowy Guardian",
+      "The Jumping Mysterious Wizard"
+    ]
+  },
+  {
+    "leader": "The Leaping Atomic Wizard",
+    "score": 72,
+    "squad": [
+      "The Leaping Atomic Wizard",
+      "The Jumping Amazing Warrior",
+      "The Flying Radiant Illusionist",
+      "The Flying Mysterious Sorcerer"
+    ]
+  },
+  {
+    "leader": "The Flying Unbreakable Protector",
+    "score": 96,
+    "squad": [
+      "The Flying Unbreakable Protector",
+      "The Leaping Mysterious Sentinel",
+      "The Jumping Incredible Robot",
+      "The Bouncing Mighty Ranger"
+    ]
+  },
+  {
+    "leader": "The Leaping Unbreakable Sentinel",
+    "score": 36,
+    "squad": [
+      "The Leaping Unbreakable Sentinel",
+      "The Jumping Daring Mage",
+      "The Jumping Invincible Behemoth",
+      "The Leaping Incredible Mage"
+    ]
+  },
+  {
+    "leader": "The Bouncing Unstoppable Paladin",
+    "score": 56,
+    "squad": [
+      "The Bouncing Unstoppable Paladin",
+      "The Bouncing Cosmic Golem",
+      "The Leaping Fearless Archer",
+      "The Jumping Cloaked Protector"
+    ]
+  },
+  {
+    "leader": "The Flying Luminous Soldier",
+    "score": 88,
+    "squad": [
+      "The Flying Luminous Soldier",
+      "The Flying Astral Champion",
+      "The Bouncing Electric Defender",
+      "The Flying Noble Golem"
+    ]
+  },
+  {
+    "leader": "The Flying Brave Ranger",
+    "score": 72,
+    "squad": [
+      "The Flying Brave Ranger",
+      "The Bouncing Quantum Crusader",
+      "The Leaping Incredible Paladin",
+      "The Leaping Thunderous Knight"
+    ]
+  },
+  {
+    "leader": "The Bouncing Valiant Guardian",
+    "score": 44,
+    "squad": [
+      "The Bouncing Valiant Guardian",
+      "The Leaping Daring Android",
+      "The Bouncing Celestial Soldier",
+      "The Leaping Noble Colossus"
+    ]
+  },
+  {
+    "leader": "The Flying Mighty Soldier",
+    "score": 28,
+    "squad": [
+      "The Flying Mighty Soldier",
+      "The Leaping Neon Behemoth",
+      "The Bouncing Electric Archer",
+      "The Bouncing Incredible Protector"
+    ]
+  },
+  {
+    "leader": "The Jumping Courageous Mage",
+    "score": 30,
+    "squad": [
+      "The Jumping Courageous Mage",
+      "The Flying Noble Sorcerer",
+      "The Leaping Fierce Behemoth",
+      "The Jumping Radiant Defender"
+    ]
+  },
+  {
+    "leader": "The Flying Astral Robot",
+    "score": 48,
+    "squad": [
+      "The Flying Astral Robot",
+      "The Bouncing Fantastic Paladin",
+      "The Leaping Radiant Warrior",
+      "The Flying Thunderous Archer"
+    ]
+  },
+  {
+    "leader": "The Jumping Amazing Protector",
+    "score": 96,
+    "squad": [
+      "The Jumping Amazing Protector",
+      "The Bouncing Celestial Telepath",
+      "The Bouncing Fearless Colossus",
+      "The Flying Electric Mage"
+    ]
+  },
+  {
+    "leader": "The Jumping Fantastic Automaton",
+    "score": 56,
+    "squad": [
+      "The Jumping Fantastic Automaton",
+      "The Flying Masked Guardian",
+      "The Jumping Courageous Champion",
+      "The Bouncing Unstoppable Mage"
+    ]
+  },
+  {
+    "leader": "The Jumping Neon Ranger",
+    "score": 28,
+    "squad": [
+      "The Jumping Neon Ranger",
+      "The Bouncing Amazing Champion",
+      "The Bouncing Cosmic Crusader",
+      "The Bouncing Fearless Avenger"
+    ]
+  },
+  {
+    "leader": "The Jumping Galactic Paladin",
+    "score": 24,
+    "squad": [
+      "The Jumping Galactic Paladin",
+      "The Jumping Courageous Soldier",
+      "The Leaping Enigmatic Behemoth",
+      "The Jumping Luminous Colossus"
+    ]
+  },
+  {
+    "leader": "The Jumping Mysterious Telepath",
+    "score": 28,
+    "squad": [
+      "The Jumping Mysterious Telepath",
+      "The Jumping Fierce Defender",
+      "The Leaping Luminous Behemoth",
+      "The Jumping Electric Mage"
+    ]
+  },
+  {
+    "leader": "The Flying Thunderous Guardian",
+    "score": 24,
+    "squad": [
+      "The Flying Thunderous Guardian",
+      "The Bouncing Neon Cyborg",
+      "The Flying Cosmic Telepath",
+      "The Jumping Unstoppable Psychic"
+    ]
+  },
+  {
+    "leader": "The Jumping Astral Protector",
+    "score": 15,
+    "squad": [
+      "The Jumping Astral Protector",
+      "The Jumping Celestial Soldier",
+      "The Flying Celestial Soldier",
+      "The Bouncing Amazing Paladin"
+    ]
+  },
+  {
+    "leader": "The Flying Astral Automaton",
+    "score": 15,
+    "squad": [
+      "The Flying Astral Automaton",
+      "The Flying Radiant Hero",
+      "The Leaping Unbreakable Illusionist",
+      "The Flying Celestial Guardian"
+    ]
+  },
+  {
+    "leader": "The Flying Invincible Hero",
+    "score": 28,
+    "squad": [
+      "The Flying Invincible Hero",
+      "The Leaping Neon Psychic",
+      "The Bouncing Incredible Avenger",
+      "The Jumping Masked Titan"
+    ]
+  },
+  {
+    "leader": "The Flying Cosmic Avenger",
+    "score": 15,
+    "squad": [
+      "The Flying Cosmic Avenger",
+      "The Jumping Mysterious Golem",
+      "The Jumping Enigmatic Soldier",
+      "The Bouncing Mighty Sentinel"
+    ]
+  },
+  {
+    "leader": "The Leaping Unstoppable Soldier",
+    "score": 24,
+    "squad": [
+      "The Leaping Unstoppable Soldier",
+      "The Jumping Electric Cyborg",
+      "The Bouncing Astral Defender",
+      "The Jumping Masked Enchanter"
+    ]
+  },
+  {
+    "leader": "The Jumping Masked Automaton",
+    "score": 30,
+    "squad": [
+      "The Jumping Masked Automaton",
+      "The Bouncing Unbreakable Telepath",
+      "The Jumping Electric Archer",
+      "The Bouncing Daring Leviathan"
+    ]
+  },
+  {
+    "leader": "The Jumping Electric Warrior",
+    "score": 15,
+    "squad": [
+      "The Jumping Electric Warrior",
+      "The Leaping Unbreakable Psychic",
+      "The Bouncing Thunderous Hero",
+      "The Bouncing Masked Android"
+    ]
+  },
+  {
+    "leader": "The Flying Valiant Golem",
+    "score": 15,
+    "squad": [
+      "The Flying Valiant Golem",
+      "The Bouncing Atomic Sorcerer",
+      "The Bouncing Brave Android",
+      "The Jumping Quantum Crusader"
+    ]
+  },
+  {
+    "leader": "The Flying Neon Robot",
+    "score": 28,
+    "squad": [
+      "The Flying Neon Robot",
+      "The Jumping Celestial Defender",
+      "The Leaping Unbreakable Titan",
+      "The Leaping Shadowy Sentinel"
+    ]
+  },
+  {
+    "leader": "The Jumping Fearless Leviathan",
+    "score": 96,
+    "squad": [
+      "The Jumping Fearless Leviathan",
+      "The Leaping Noble Champion",
+      "The Jumping Noble Hero",
+      "The Flying Daring Enchanter"
+    ]
+  },
+  {
+    "leader": "The Flying Galactic Behemoth",
+    "score": 80,
+    "squad": [
+      "The Flying Galactic Behemoth",
+      "The Leaping Daring Hero",
+      "The Flying Atomic Mage",
+      "The Leaping Quantum Sorcerer"
+    ]
+  },
+  {
+    "leader": "The Flying Unstoppable Mage",
+    "score": 56,
+    "squad": [
+      "The Flying Unstoppable Mage",
+      "The Flying Enigmatic Archer",
+      "The Bouncing Enigmatic Android",
+      "The Leaping Masked Golem"
+    ]
+  },
+  {
+    "leader": "The Bouncing Cosmic Colossus",
+    "score": 56,
+    "squad": [
+      "The Bouncing Cosmic Colossus",
+      "The Jumping Galactic Telepath",
+      "The Leaping Masked Crusader",
+      "The Flying Enigmatic Crusader"
+    ]
+  },
+  {
+    "leader": "The Leaping Mighty Android",
+    "score": 44,
+    "squad": [
+      "The Leaping Mighty Android",
+      "The Flying Radiant Robot",
+      "The Flying Valiant Automaton",
+      "The Flying Invincible Enchanter"
+    ]
+  },
+  {
+    "leader": "The Leaping Brave Automaton",
+    "score": 56,
+    "squad": [
+      "The Leaping Brave Automaton",
+      "The Bouncing Enigmatic Wizard",
+      "The Jumping Brave Mage",
+      "The Flying Electric Paladin"
+    ]
+  },
+  {
+    "leader": "The Jumping Valiant Champion",
+    "score": 88,
+    "squad": [
+      "The Jumping Valiant Champion",
+      "The Flying Courageous Champion",
+      "The Bouncing Neon Avenger",
+      "The Leaping Brave Sentinel"
+    ]
+  },
+  {
+    "leader": "The Bouncing Noble Cyborg",
+    "score": 36,
+    "squad": [
+      "The Bouncing Noble Cyborg",
+      "The Flying Luminous Wizard",
+      "The Flying Courageous Behemoth",
+      "The Leaping Luminous Golem"
+    ]
+  },
+  {
+    "leader": "The Bouncing Astral Hero",
+    "score": 64,
+    "squad": [
+      "The Bouncing Astral Hero",
+      "The Bouncing Masked Psychic",
+      "The Jumping Neon Illusionist",
+      "The Leaping Fantastic Cyborg"
+    ]
+  },
+  {
+    "leader": "The Bouncing Masked Titan",
+    "score": 26,
+    "squad": [
+      "The Bouncing Masked Titan",
+      "The Leaping Neon Soldier",
+      "The Jumping Mysterious Warrior",
+      "The Flying Galactic Sorcerer"
+    ]
+  },
+  {
+    "leader": "The Jumping Masked Protector",
+    "score": 24,
+    "squad": [
+      "The Jumping Masked Protector",
+      "The Flying Electric Knight",
+      "The Leaping Luminous Warrior",
+      "The Flying Fantastic Knight"
+    ]
+  },
+  {
+    "leader": "The Bouncing Invincible Warrior",
+    "score": 22,
+    "squad": [
+      "The Bouncing Invincible Warrior",
+      "The Bouncing Enigmatic Telepath",
+      "The Leaping Amazing Wizard",
+      "The Jumping Cosmic Behemoth"
+    ]
+  },
+  {
+    "leader": "The Jumping Brave Telepath",
+    "score": 24,
+    "squad": [
+      "The Jumping Brave Telepath",
+      "The Flying Valiant Guardian",
+      "The Bouncing Atomic Colossus",
+      "The Jumping Fearless Warrior"
+    ]
+  },
+  {
+    "leader": "The Leaping Incredible Leviathan",
+    "score": 32,
+    "squad": [
+      "The Leaping Incredible Leviathan",
+      "The Leaping Incredible Cyborg",
+      "The Leaping Daring Sentinel",
+      "The Jumping Valiant Archer"
+    ]
+  },
+  {
+    "leader": "The Leaping Courageous Cyborg",
+    "score": 22,
+    "squad": [
+      "The Leaping Courageous Cyborg",
+      "The Leaping Mighty Telepath",
+      "The Bouncing Fearless Leviathan",
+      "The Bouncing Fierce Mage"
+    ]
+  },
+  {
+    "leader": "The Jumping Unstoppable Ranger",
+    "score": 28,
+    "squad": [
+      "The Jumping Unstoppable Ranger",
+      "The Jumping Cloaked Ranger",
+      "The Leaping Electric Robot",
+      "The Bouncing Quantum Psychic"
+    ]
+  },
+  {
+    "leader": "The Leaping Astral Golem",
+    "score": 88,
+    "squad": [
+      "The Leaping Astral Golem",
+      "The Flying Shadowy Archer",
+      "The Leaping Atomic Leviathan",
+      "The Jumping Quantum Golem"
+    ]
+  },
+  {
+    "leader": "The Bouncing Fierce Champion",
+    "score": 22,
+    "squad": [
+      "The Bouncing Fierce Champion",
+      "The Jumping Courageous Automaton",
+      "The Jumping Cloaked Hero",
+      "The Jumping Astral Illusionist"
+    ]
+  },
+  {
+    "leader": "The Jumping Electric Titan",
+    "score": 14,
+    "squad": [
+      "The Jumping Electric Titan",
+      "The Bouncing Invincible Avenger",
+      "The Leaping Galactic Archer",
+      "The Jumping Invincible Android"
+    ]
+  },
+  {
+    "leader": "The Flying Astral Android",
+    "score": 14,
+    "squad": [
+      "The Flying Astral Android",
+      "The Leaping Incredible Guardian",
+      "The Bouncing Quantum Golem",
+      "The Leaping Invincible Paladin"
+    ]
+  },
+  {
+    "leader": "The Bouncing Incredible Golem",
+    "score": 40,
+    "squad": [
+      "The Bouncing Incredible Golem",
+      "The Bouncing Fearless Guardian",
+      "The Flying Fearless Illusionist",
+      "The Flying Noble Crusader"
+    ]
+  },
+  {
+    "leader": "The Flying Neon Guardian",
+    "score": 44,
+    "squad": [
+      "The Flying Neon Guardian",
+      "The Bouncing Unstoppable Robot",
+      "The Flying Galactic Champion",
+      "The Flying Astral Sentinel"
+    ]
+  },
+  {
+    "leader": "The Leaping Mighty Sorcerer",
+    "score": 22,
+    "squad": [
+      "The Leaping Mighty Sorcerer",
+      "The Jumping Courageous Golem",
+      "The Leaping Astral Psychic",
+      "The Leaping Amazing Colossus"
+    ]
+  },
+  {
+    "leader": "The Leaping Thunderous Illusionist",
+    "score": 52,
+    "squad": [
+      "The Leaping Thunderous Illusionist",
+      "The Bouncing Luminous Golem",
+      "The Leaping Valiant Avenger",
+      "The Bouncing Galactic Hero"
+    ]
+  },
+  {
+    "leader": "The Flying Mysterious Sentinel",
+    "score": 52,
+    "squad": [
+      "The Flying Mysterious Sentinel",
+      "The Leaping Courageous Telepath",
+      "The Jumping Thunderous Colossus",
+      "The Leaping Celestial Golem"
+    ]
+  },
+  {
+    "leader": "The Bouncing Neon Defender",
+    "score": 44,
+    "squad": [
+      "The Bouncing Neon Defender",
+      "The Bouncing Unbreakable Paladin",
+      "The Bouncing Fantastic Enchanter",
+      "The Jumping Brave Wizard"
+    ]
+  },
+  {
+    "leader": "The Leaping Celestial Hero",
+    "score": 22,
+    "squad": [
+      "The Leaping Celestial Hero",
+      "The Jumping Courageous Colossus",
+      "The Jumping Valiant Warrior",
+      "The Bouncing Mighty Golem"
+    ]
+  },
+  {
+    "leader": "The Leaping Luminous Wizard",
+    "score": 72,
+    "squad": [
+      "The Leaping Luminous Wizard",
+      "The Bouncing Shadowy Archer",
+      "The Leaping Noble Android",
+      "The Leaping Shadowy Illusionist"
+    ]
+  },
+  {
+    "leader": "The Jumping Invincible Sentinel",
+    "score": 72,
+    "squad": [
+      "The Jumping Invincible Sentinel",
+      "The Jumping Courageous Paladin",
+      "The Jumping Noble Android",
+      "The Leaping Luminous Android"
+    ]
+  },
+  {
+    "leader": "The Flying Cosmic Protector",
+    "score": 88,
+    "squad": [
+      "The Flying Cosmic Protector",
+      "The Bouncing Celestial Enchanter",
+      "The Bouncing Celestial Behemoth",
+      "The Bouncing Radiant Avenger"
+    ]
+  },
+  {
+    "leader": "The Jumping Galactic Illusionist",
+    "score": 36,
+    "squad": [
+      "The Jumping Galactic Illusionist",
+      "The Jumping Amazing Ranger",
+      "The Bouncing Electric Sorcerer",
+      "The Bouncing Courageous Illusionist"
+    ]
+  },
+  {
+    "leader": "The Jumping Thunderous Behemoth",
+    "score": 26,
+    "squad": [
+      "The Jumping Thunderous Behemoth",
+      "The Leaping Amazing Paladin",
+      "The Leaping Courageous Soldier",
+      "The Leaping Unstoppable Illusionist"
+    ]
+  },
+  {
+    "leader": "The Jumping Neon Sorcerer",
+    "score": 44,
+    "squad": [
+      "The Jumping Neon Sorcerer",
+      "The Flying Radiant Avenger",
+      "The Bouncing Electric Psychic",
+      "The Bouncing Mighty Wizard"
+    ]
+  },
+  {
+    "leader": "The Bouncing Daring Defender",
+    "score": 36,
+    "squad": [
+      "The Bouncing Daring Defender",
+      "The Bouncing Fierce Ranger",
+      "The Flying Noble Ranger",
+      "The Flying Unbreakable Sentinel"
+    ]
+  },
+  {
+    "leader": "The Flying Daring Guardian",
+    "score": 52,
+    "squad": [
+      "The Flying Daring Guardian",
+      "The Flying Fearless Leviathan",
+      "The Bouncing Noble Sentinel",
+      "The Leaping Quantum Crusader"
+    ]
+  },
+  {
+    "leader": "The Flying Incredible Cyborg",
+    "score": 22,
+    "squad": [
+      "The Flying Incredible Cyborg",
+      "The Jumping Celestial Champion",
+      "The Jumping Invincible Avenger",
+      "The Jumping Enigmatic Warrior"
+    ]
+  },
+  {
+    "leader": "The Flying Noble Leviathan",
+    "score": 36,
+    "squad": [
+      "The Flying Noble Leviathan",
+      "The Bouncing Atomic Champion",
+      "The Bouncing Incredible Archer",
+      "The Jumping Fantastic Illusionist"
+    ]
+  },
+  {
+    "leader": "The Bouncing Courageous Enchanter",
+    "score": 24,
+    "squad": [
+      "The Bouncing Courageous Enchanter",
+      "The Flying Mighty Crusader",
+      "The Jumping Masked Guardian",
+      "The Jumping Unbreakable Archer"
+    ]
+  },
+  {
+    "leader": "The Flying Enigmatic Leviathan",
+    "score": 80,
+    "squad": [
+      "The Flying Enigmatic Leviathan",
+      "The Flying Atomic Avenger",
+      "The Flying Shadowy Mage",
+      "The Flying Cloaked Protector"
+    ]
+  },
+  {
+    "leader": "The Flying Atomic Robot",
+    "score": 22,
+    "squad": [
+      "The Flying Atomic Robot",
+      "The Flying Valiant Robot",
+      "The Bouncing Unbreakable Guardian",
+      "The Jumping Radiant Protector"
+    ]
+  },
+  {
+    "leader": "The Bouncing Neon Robot",
+    "score": 22,
+    "squad": [
+      "The Bouncing Neon Robot",
+      "The Jumping Fantastic Knight",
+      "The Bouncing Masked Enchanter",
+      "The Bouncing Mighty Champion"
+    ]
+  },
+  {
+    "leader": "The Jumping Daring Knight",
+    "score": 80,
+    "squad": [
+      "The Jumping Daring Knight",
+      "The Bouncing Unbreakable Golem",
+      "The Leaping Celestial Titan",
+      "The Jumping Electric Automaton"
+    ]
+  },
+  {
+    "leader": "The Jumping Noble Warrior",
+    "score": 13,
+    "squad": [
+      "The Jumping Noble Warrior",
+      "The Flying Luminous Mage",
+      "The Bouncing Celestial Ranger",
+      "The Flying Masked Protector"
+    ]
+  },
+  {
+    "leader": "The Jumping Unbreakable Warrior",
+    "score": 36,
+    "squad": [
+      "The Jumping Unbreakable Warrior",
+      "The Leaping Neon Knight",
+      "The Jumping Valiant Avenger",
+      "The Flying Fearless Protector"
+    ]
+  },
+  {
+    "leader": "The Bouncing Mysterious Ranger",
+    "score": 44,
+    "squad": [
+      "The Bouncing Mysterious Ranger",
+      "The Flying Courageous Warrior",
+      "The Leaping Valiant Leviathan",
+      "The Jumping Mighty Robot"
+    ]
+  },
+  {
+    "leader": "The Flying Courageous Psychic",
+    "score": 44,
+    "squad": [
+      "The Flying Courageous Psychic",
+      "The Flying Brave Soldier",
+      "The Flying Unstoppable Titan",
+      "The Flying Thunderous Illusionist"
+    ]
+  },
+  {
+    "leader": "The Flying Celestial Paladin",
+    "score": 26,
+    "squad": [
+      "The Flying Celestial Paladin",
+      "The Bouncing Valiant Hero",
+      "The Jumping Mighty Cyborg",
+      "The Bouncing Valiant Golem"
+    ]
+  },
+  {
+    "leader": "The Leaping Mysterious Illusionist",
+    "score": 22,
+    "squad": [
+      "The Leaping Mysterious Illusionist",
+      "The Flying Thunderous Sentinel",
+      "The Leaping Brave Protector",
+      "The Jumping Astral Sentinel"
+    ]
+  },
+  {
+    "leader": "The Flying Neon Warrior",
+    "score": 26,
+    "squad": [
+      "The Flying Neon Warrior",
+      "The Bouncing Invincible Behemoth",
+      "The Leaping Thunderous Psychic",
+      "The Leaping Atomic Hero"
+    ]
+  },
+  {
+    "leader": "The Jumping Unbreakable Colossus",
+    "score": 24,
+    "squad": [
+      "The Jumping Unbreakable Colossus",
+      "The Leaping Fantastic Hero",
+      "The Jumping Noble Ranger",
+      "The Flying Invincible Wizard"
+    ]
+  },
+  {
+    "leader": "The Jumping Invincible Leviathan",
+    "score": 13,
+    "squad": [
+      "The Jumping Invincible Leviathan",
+      "The Bouncing Mysterious Knight",
+      "The Flying Atomic Colossus",
+      "The Flying Noble Sentinel"
+    ]
+  },
+  {
+    "leader": "The Flying Galactic Leviathan",
+    "score": 26,
+    "squad": [
+      "The Flying Galactic Leviathan",
+      "The Flying Courageous Colossus",
+      "The Leaping Masked Champion",
+      "The Bouncing Brave Champion"
+    ]
+  },
+  {
+    "leader": "The Leaping Shadowy Avenger",
+    "score": 26,
+    "squad": [
+      "The Leaping Shadowy Avenger",
+      "The Leaping Galactic Android",
+      "The Jumping Enigmatic Behemoth",
+      "The Bouncing Enigmatic Mage"
+    ]
+  },
+  {
+    "leader": "The Leaping Fantastic Android",
+    "score": 56,
+    "squad": [
+      "The Leaping Fantastic Android",
+      "The Jumping Noble Titan",
+      "The Leaping Amazing Sorcerer",
+      "The Jumping Quantum Cyborg"
+    ]
+  },
+  {
+    "leader": "The Bouncing Daring Golem",
+    "score": 36,
+    "squad": [
+      "The Bouncing Daring Golem",
+      "The Leaping Atomic Crusader",
+      "The Flying Fearless Hero",
+      "The Bouncing Brave Sorcerer"
+    ]
+  },
+  {
+    "leader": "The Leaping Thunderous Guardian",
+    "score": 48,
+    "squad": [
+      "The Leaping Thunderous Guardian",
+      "The Flying Enigmatic Guardian",
+      "The Leaping Fearless Automaton",
+      "The Bouncing Courageous Leviathan"
+    ]
+  },
+  {
+    "leader": "The Leaping Fantastic Paladin",
+    "score": 40,
+    "squad": [
+      "The Leaping Fantastic Paladin",
+      "The Flying Courageous Archer",
+      "The Jumping Luminous Crusader",
+      "The Flying Daring Knight"
+    ]
+  },
+  {
+    "leader": "The Bouncing Astral Leviathan",
+    "score": 80,
+    "squad": [
+      "The Bouncing Astral Leviathan",
+      "The Flying Atomic Titan",
+      "The Bouncing Noble Telepath",
+      "The Leaping Thunderous Avenger"
+    ]
+  },
+  {
+    "leader": "The Leaping Cosmic Titan",
+    "score": 64,
+    "squad": [
+      "The Leaping Cosmic Titan",
+      "The Jumping Cosmic Telepath",
+      "The Leaping Cloaked Titan",
+      "The Leaping Astral Android"
+    ]
+  },
+  {
+    "leader": "The Flying Radiant Sentinel",
+    "score": 48,
+    "squad": [
+      "The Flying Radiant Sentinel",
+      "The Leaping Luminous Guardian",
+      "The Jumping Unstoppable Defender",
+      "The Leaping Unstoppable Guardian"
+    ]
+  },
+  {
+    "leader": "The Bouncing Electric Crusader",
+    "score": 22,
+    "squad": [
+      "The Bouncing Electric Crusader",
+      "The Jumping Radiant Titan",
+      "The Bouncing Luminous Protector",
+      "The Leaping Noble Hero"
+    ]
+  },
+  {
+    "leader": "The Bouncing Noble Android",
+    "score": 80,
+    "squad": [
+      "The Bouncing Noble Android",
+      "The Jumping Unstoppable Wizard",
+      "The Jumping Unstoppable Mage",
+      "The Leaping Courageous Enchanter"
+    ]
+  },
+  {
+    "leader": "The Bouncing Valiant Soldier",
+    "score": 64,
+    "squad": [
+      "The Bouncing Valiant Soldier",
+      "The Leaping Astral Hero",
+      "The Bouncing Luminous Paladin",
+      "The Bouncing Atomic Protector"
+    ]
+  },
+  {
+    "leader": "The Leaping Radiant Robot",
+    "score": 22,
+    "squad": [
+      "The Leaping Radiant Robot",
+      "The Jumping Amazing Android",
+      "The Jumping Cloaked Soldier",
+      "The Jumping Amazing Colossus"
+    ]
+  },
+  {
+    "leader": "The Leaping Neon Android",
+    "score": 20,
+    "squad": [
+      "The Leaping Neon Android",
+      "The Leaping Quantum Paladin",
+      "The Jumping Astral Wizard",
+      "The Flying Fierce Knight"
+    ]
+  },
+  {
+    "leader": "The Flying Shadowy Telepath",
+    "score": 36,
+    "squad": [
+      "The Flying Shadowy Telepath",
+      "The Leaping Galactic Knight",
+      "The Jumping Galactic Protector",
+      "The Bouncing Electric Guardian"
+    ]
+  },
+  {
+    "leader": "The Jumping Invincible Robot",
+    "score": 40,
+    "squad": [
+      "The Jumping Invincible Robot",
+      "The Bouncing Enigmatic Enchanter",
+      "The Flying Enigmatic Colossus",
+      "The Flying Unbreakable Golem"
+    ]
+  },
+  {
+    "leader": "The Jumping Mysterious Ranger",
+    "score": 12,
+    "squad": [
+      "The Jumping Mysterious Ranger",
+      "The Jumping Enigmatic Hero",
+      "The Leaping Invincible Defender",
+      "The Jumping Unbreakable Titan"
+    ]
+  },
+  {
+    "leader": "The Jumping Mighty Guardian",
+    "score": 20,
+    "squad": [
+      "The Jumping Mighty Guardian",
+      "The Flying Noble Mage",
+      "The Leaping Astral Wizard",
+      "The Leaping Courageous Avenger"
+    ]
+  },
+  {
+    "leader": "The Leaping Noble Psychic",
+    "score": 24,
+    "squad": [
+      "The Leaping Noble Psychic",
+      "The Bouncing Cloaked Leviathan",
+      "The Bouncing Cloaked Sentinel",
+      "The Flying Fierce Robot"
+    ]
+  },
+  {
+    "leader": "The Bouncing Courageous Titan",
+    "score": 12,
+    "squad": [
+      "The Bouncing Courageous Titan",
+      "The Leaping Cloaked Cyborg",
+      "The Bouncing Unbreakable Champion",
+      "The Flying Cloaked Leviathan"
+    ]
+  },
+  {
+    "leader": "The Jumping Celestial Behemoth",
+    "score": 22,
+    "squad": [
+      "The Jumping Celestial Behemoth",
+      "The Leaping Mysterious Telepath",
+      "The Jumping Quantum Illusionist",
+      "The Bouncing Thunderous Mage"
+    ]
+  },
+  {
+    "leader": "The Jumping Invincible Golem",
+    "score": 24,
+    "squad": [
+      "The Jumping Invincible Golem",
+      "The Leaping Fantastic Golem",
+      "The Bouncing Masked Avenger",
+      "The Bouncing Fierce Avenger"
+    ]
+  },
+  {
+    "leader": "The Bouncing Fantastic Champion",
+    "score": 24,
+    "squad": [
+      "The Bouncing Fantastic Champion",
+      "The Jumping Galactic Guardian",
+      "The Leaping Thunderous Champion",
+      "The Bouncing Astral Behemoth"
+    ]
+  },
+  {
+    "leader": "The Flying Cloaked Sorcerer",
+    "score": 12,
+    "squad": [
+      "The Flying Cloaked Sorcerer",
+      "The Leaping Fierce Titan",
+      "The Jumping Fearless Champion",
+      "The Bouncing Incredible Ranger"
+    ]
+  },
+  {
+    "leader": "The Bouncing Electric Android",
+    "score": 36,
+    "squad": [
+      "The Bouncing Electric Android",
+      "The Flying Daring Wizard",
+      "The Leaping Fierce Automaton",
+      "The Flying Fearless Behemoth"
+    ]
+  },
+  {
+    "leader": "The Flying Incredible Mage",
+    "score": 11,
+    "squad": [
+      "The Flying Incredible Mage",
+      "The Jumping Luminous Telepath",
+      "The Jumping Neon Archer",
+      "The Leaping Cloaked Mage"
+    ]
+  },
+  {
+    "leader": "The Flying Atomic Protector",
+    "score": 72,
+    "squad": [
+      "The Flying Atomic Protector",
+      "The Leaping Mighty Illusionist",
+      "The Bouncing Unbreakable Robot",
+      "The Flying Mysterious Soldier"
+    ]
+  },
+  {
+    "leader": "The Jumping Unbreakable Psychic",
+    "score": 36,
+    "squad": [
+      "The Jumping Unbreakable Psychic",
+      "The Jumping Masked Paladin",
+      "The Jumping Daring Guardian",
+      "The Flying Radiant Behemoth"
+    ]
+  },
+  {
+    "leader": "The Flying Quantum Cyborg",
+    "score": 18,
+    "squad": [
+      "The Flying Quantum Cyborg",
+      "The Flying Electric Golem",
+      "The Flying Valiant Enchanter",
+      "The Leaping Cosmic Warrior"
+    ]
+  },
+  {
+    "leader": "The Flying Enigmatic Mage",
+    "score": 32,
+    "squad": [
+      "The Flying Enigmatic Mage",
+      "The Flying Luminous Cyborg",
+      "The Bouncing Electric Wizard",
+      "The Bouncing Masked Behemoth"
+    ]
+  },
+  {
+    "leader": "The Leaping Galactic Hero",
+    "score": 20,
+    "squad": [
+      "The Leaping Galactic Hero",
+      "The Bouncing Galactic Archer",
+      "The Bouncing Celestial Titan",
+      "The Leaping Atomic Knight"
+    ]
+  },
+  {
+    "leader": "The Bouncing Fearless Behemoth",
+    "score": 20,
+    "squad": [
+      "The Bouncing Fearless Behemoth",
+      "The Leaping Noble Leviathan",
+      "The Jumping Incredible Archer",
+      "The Bouncing Radiant Golem"
+    ]
+  },
+  {
+    "leader": "The Bouncing Brave Cyborg",
+    "score": 11,
+    "squad": [
+      "The Bouncing Brave Cyborg",
+      "The Jumping Brave Avenger",
+      "The Bouncing Daring Archer",
+      "The Bouncing Atomic Automaton"
+    ]
+  },
+  {
+    "leader": "The Flying Shadowy Warrior",
+    "score": 18,
+    "squad": [
+      "The Flying Shadowy Warrior",
+      "The Leaping Mighty Avenger",
+      "The Leaping Shadowy Automaton",
+      "The Leaping Masked Android"
+    ]
+  },
+  {
+    "leader": "The Bouncing Unstoppable Defender",
+    "score": 20,
+    "squad": [
+      "The Bouncing Unstoppable Defender",
+      "The Leaping Invincible Leviathan",
+      "The Leaping Luminous Sentinel",
+      "The Jumping Neon Automaton"
+    ]
+  },
+  {
+    "leader": "The Flying Neon Enchanter",
+    "score": 32,
+    "squad": [
+      "The Flying Neon Enchanter",
+      "The Jumping Noble Robot",
+      "The Bouncing Masked Warrior",
+      "The Leaping Brave Golem"
+    ]
+  },
+  {
+    "leader": "The Jumping Galactic Psychic",
+    "score": 16,
+    "squad": [
+      "The Jumping Galactic Psychic",
+      "The Jumping Fearless Colossus",
+      "The Flying Neon Mage",
+      "The Leaping Astral Archer"
+    ]
+  },
+  {
+    "leader": "The Flying Masked Automaton",
+    "score": 11,
+    "squad": [
+      "The Flying Masked Automaton",
+      "The Jumping Incredible Cyborg",
+      "The Flying Mysterious Behemoth",
+      "The Flying Noble Champion"
+    ]
+  },
+  {
+    "leader": "The Leaping Valiant Behemoth",
+    "score": 28,
+    "squad": [
+      "The Leaping Valiant Behemoth",
+      "The Bouncing Celestial Guardian",
+      "The Jumping Fantastic Champion",
+      "The Jumping Valiant Illusionist"
+    ]
+  },
+  {
+    "leader": "The Jumping Fierce Telepath",
+    "score": 20,
+    "squad": [
+      "The Jumping Fierce Telepath",
+      "The Flying Electric Champion",
+      "The Leaping Fierce Wizard",
+      "The Jumping Unstoppable Knight"
+    ]
+  },
+  {
+    "leader": "The Flying Invincible Avenger",
+    "score": 18,
+    "squad": [
+      "The Flying Invincible Avenger",
+      "The Leaping Thunderous Paladin",
+      "The Flying Amazing Soldier",
+      "The Flying Unstoppable Sentinel"
+    ]
+  },
+  {
+    "leader": "The Bouncing Enigmatic Illusionist",
+    "score": 40,
+    "squad": [
+      "The Bouncing Enigmatic Illusionist",
+      "The Bouncing Astral Mage",
+      "The Bouncing Courageous Mage",
+      "The Leaping Mighty Defender"
+    ]
+  },
+  {
+    "leader": "The Leaping Atomic Behemoth",
+    "score": 36,
+    "squad": [
+      "The Leaping Atomic Behemoth",
+      "The Jumping Mighty Crusader",
+      "The Bouncing Radiant Knight",
+      "The Flying Valiant Warrior"
+    ]
+  },
+  {
+    "leader": "The Jumping Brave Colossus",
+    "score": 10,
+    "squad": [
+      "The Jumping Brave Colossus",
+      "The Flying Cloaked Illusionist",
+      "The Leaping Mysterious Enchanter",
+      "The Bouncing Unbreakable Avenger"
+    ]
+  },
+  {
+    "leader": "The Leaping Cosmic Champion",
+    "score": 32,
+    "squad": [
+      "The Leaping Cosmic Champion",
+      "The Leaping Neon Sentinel",
+      "The Leaping Mighty Crusader",
+      "The Flying Mysterious Enchanter"
+    ]
+  },
+  {
+    "leader": "The Jumping Unbreakable Champion",
+    "score": 32,
+    "squad": [
+      "The Jumping Unbreakable Champion",
+      "The Leaping Masked Soldier",
+      "The Bouncing Unbreakable Behemoth",
+      "The Flying Quantum Leviathan"
+    ]
+  },
+  {
+    "leader": "The Bouncing Mysterious Avenger",
+    "score": 64,
+    "squad": [
+      "The Bouncing Mysterious Avenger",
+      "The Leaping Fantastic Crusader",
+      "The Flying Radiant Android",
+      "The Leaping Galactic Automaton"
+    ]
+  },
+  {
+    "leader": "The Leaping Masked Enchanter",
+    "score": 32,
+    "squad": [
+      "The Leaping Masked Enchanter",
+      "The Jumping Mighty Defender",
+      "The Jumping Unstoppable Champion",
+      "The Leaping Shadowy Android"
+    ]
+  },
+  {
+    "leader": "The Flying Unstoppable Wizard",
+    "score": 56,
+    "squad": [
+      "The Flying Unstoppable Wizard",
+      "The Leaping Enigmatic Knight",
+      "The Bouncing Astral Avenger",
+      "The Jumping Celestial Sorcerer"
+    ]
+  },
+  {
+    "leader": "The Leaping Courageous Illusionist",
+    "score": 18,
+    "squad": [
+      "The Leaping Courageous Illusionist",
+      "The Bouncing Unstoppable Protector",
+      "The Flying Noble Colossus",
+      "The Leaping Atomic Paladin"
+    ]
+  },
+  {
+    "leader": "The Jumping Daring Enchanter",
+    "score": 28,
+    "squad": [
+      "The Jumping Daring Enchanter",
+      "The Bouncing Valiant Robot",
+      "The Flying Electric Hero",
+      "The Jumping Masked Sorcerer"
+    ]
+  },
+  {
+    "leader": "The Jumping Neon Wizard",
+    "score": 18,
+    "squad": [
+      "The Jumping Neon Wizard",
+      "The Leaping Mighty Warrior",
+      "The Bouncing Mighty Guardian",
+      "The Flying Celestial Colossus"
+    ]
+  },
+  {
+    "leader": "The Leaping Thunderous Ranger",
+    "score": 9,
+    "squad": [
+      "The Leaping Thunderous Ranger",
+      "The Bouncing Unstoppable Titan",
+      "The Leaping Noble Paladin",
+      "The Jumping Unbreakable Golem"
+    ]
+  },
+  {
+    "leader": "The Jumping Astral Archer",
+    "score": 32,
+    "squad": [
+      "The Jumping Astral Archer",
+      "The Leaping Unbreakable Android",
+      "The Bouncing Unstoppable Wizard",
+      "The Jumping Mighty Psychic"
+    ]
+  },
+  {
+    "leader": "The Flying Atomic Ranger",
+    "score": 16,
+    "squad": [
+      "The Flying Atomic Ranger",
+      "The Flying Cosmic Knight",
+      "The Bouncing Incredible Illusionist",
+      "The Leaping Luminous Enchanter"
+    ]
+  },
+  {
+    "leader": "The Jumping Invincible Illusionist",
+    "score": 32,
+    "squad": [
+      "The Jumping Invincible Illusionist",
+      "The Leaping Daring Behemoth",
+      "The Bouncing Fearless Champion",
+      "The Bouncing Celestial Hero"
+    ]
+  },
+  {
+    "leader": "The Leaping Astral Illusionist",
+    "score": 9,
+    "squad": [
+      "The Leaping Astral Illusionist",
+      "The Bouncing Amazing Defender",
+      "The Flying Incredible Behemoth",
+      "The Leaping Enigmatic Titan"
+    ]
+  },
+  {
+    "leader": "The Flying Neon Sorcerer",
+    "score": 9,
+    "squad": [
+      "The Flying Neon Sorcerer",
+      "The Bouncing Unbreakable Enchanter",
+      "The Bouncing Amazing Protector",
+      "The Bouncing Unstoppable Enchanter"
+    ]
+  },
+  {
+    "leader": "The Leaping Electric Telepath",
+    "score": 9,
+    "squad": [
+      "The Leaping Electric Telepath",
+      "The Jumping Mysterious Titan",
+      "The Flying Fearless Warrior",
+      "The Jumping Electric Knight"
+    ]
+  },
+  {
+    "leader": "The Jumping Courageous Leviathan",
+    "score": 18,
+    "squad": [
+      "The Jumping Courageous Leviathan",
+      "The Leaping Courageous Automaton",
+      "The Leaping Brave Defender",
+      "The Jumping Mysterious Guardian"
+    ]
+  },
+  {
+    "leader": "The Bouncing Fantastic Sentinel",
+    "score": 16,
+    "squad": [
+      "The Bouncing Fantastic Sentinel",
+      "The Flying Electric Robot",
+      "The Bouncing Incredible Cyborg",
+      "The Leaping Invincible Mage"
+    ]
+  },
+  {
+    "leader": "The Bouncing Cosmic Sorcerer",
+    "score": 32,
+    "squad": [
+      "The Bouncing Cosmic Sorcerer",
+      "The Jumping Fierce Guardian",
+      "The Leaping Celestial Telepath",
+      "The Bouncing Astral Colossus"
+    ]
+  },
+  {
+    "leader": "The Jumping Masked Hero",
+    "score": 32,
+    "squad": [
+      "The Jumping Masked Hero",
+      "The Leaping Enigmatic Protector",
+      "The Jumping Astral Android",
+      "The Flying Thunderous Wizard"
+    ]
+  },
+  {
+    "leader": "The Bouncing Mysterious Behemoth",
+    "score": 48,
+    "squad": [
+      "The Bouncing Mysterious Behemoth",
+      "The Bouncing Shadowy Crusader",
+      "The Bouncing Fierce Sentinel",
+      "The Leaping Invincible Illusionist"
+    ]
+  },
+  {
+    "leader": "The Leaping Unstoppable Archer",
+    "score": 28,
+    "squad": [
+      "The Leaping Unstoppable Archer",
+      "The Jumping Quantum Warrior",
+      "The Leaping Mysterious Paladin",
+      "The Flying Electric Automaton"
+    ]
+  },
+  {
+    "leader": "The Flying Shadowy Defender",
+    "score": 24,
+    "squad": [
+      "The Flying Shadowy Defender",
+      "The Jumping Fierce Android",
+      "The Flying Noble Illusionist",
+      "The Flying Quantum Colossus"
+    ]
+  },
+  {
+    "leader": "The Bouncing Mysterious Mage",
+    "score": 96,
+    "squad": [
+      "The Bouncing Mysterious Mage",
+      "The Leaping Masked Titan",
+      "The Jumping Quantum Sorcerer",
+      "The Bouncing Fearless Protector"
+    ]
+  },
+  {
+    "leader": "The Flying Neon Titan",
+    "score": 16,
+    "squad": [
+      "The Flying Neon Titan",
+      "The Flying Fierce Psychic",
+      "The Jumping Fearless Knight",
+      "The Flying Radiant Enchanter"
+    ]
+  },
+  {
+    "leader": "The Leaping Fearless Knight",
+    "score": 24,
+    "squad": [
+      "The Leaping Fearless Knight",
+      "The Flying Astral Colossus",
+      "The Leaping Daring Guardian",
+      "The Jumping Enigmatic Guardian"
+    ]
+  },
+  {
+    "leader": "The Leaping Thunderous Mage",
+    "score": 14,
+    "squad": [
+      "The Leaping Thunderous Mage",
+      "The Jumping Quantum Defender",
+      "The Bouncing Courageous Champion",
+      "The Bouncing Cosmic Robot"
+    ]
+  },
+  {
+    "leader": "The Bouncing Cosmic Cyborg",
+    "score": 28,
+    "squad": [
+      "The Bouncing Cosmic Cyborg",
+      "The Leaping Amazing Enchanter",
+      "The Leaping Thunderous Titan",
+      "The Leaping Invincible Guardian"
+    ]
+  },
+  {
+    "leader": "The Jumping Shadowy Paladin",
+    "score": 8,
+    "squad": [
+      "The Jumping Shadowy Paladin",
+      "The Flying Daring Champion",
+      "The Flying Amazing Sentinel",
+      "The Bouncing Courageous Archer"
+    ]
+  },
+  {
+    "leader": "The Jumping Neon Golem",
+    "score": 16,
+    "squad": [
+      "The Jumping Neon Golem",
+      "The Flying Mighty Archer",
+      "The Flying Valiant Colossus",
+      "The Flying Valiant Avenger"
+    ]
+  },
+  {
+    "leader": "The Jumping Courageous Titan",
+    "score": 8,
+    "squad": [
+      "The Jumping Courageous Titan",
+      "The Jumping Fierce Archer",
+      "The Flying Galactic Sentinel",
+      "The Leaping Galactic Guardian"
+    ]
+  },
+  {
+    "leader": "The Bouncing Valiant Champion",
+    "score": 8,
+    "squad": [
+      "The Bouncing Valiant Champion",
+      "The Bouncing Cloaked Avenger",
+      "The Flying Amazing Telepath",
+      "The Jumping Fierce Crusader"
+    ]
+  },
+  {
+    "leader": "The Jumping Masked Illusionist",
+    "score": 16,
+    "squad": [
+      "The Jumping Masked Illusionist",
+      "The Flying Masked Avenger",
+      "The Bouncing Unstoppable Hero",
+      "The Leaping Luminous Illusionist"
+    ]
+  },
+  {
+    "leader": "The Jumping Unstoppable Telepath",
+    "score": 8,
+    "squad": [
+      "The Jumping Unstoppable Telepath",
+      "The Flying Brave Robot",
+      "The Bouncing Fierce Paladin",
+      "The Jumping Neon Soldier"
+    ]
+  },
+  {
+    "leader": "The Bouncing Luminous Sentinel",
+    "score": 8,
+    "squad": [
+      "The Bouncing Luminous Sentinel",
+      "The Leaping Unbreakable Warrior",
+      "The Bouncing Masked Automaton",
+      "The Bouncing Shadowy Avenger"
+    ]
+  },
+  {
+    "leader": "The Leaping Valiant Knight",
+    "score": 32,
+    "squad": [
+      "The Leaping Valiant Knight",
+      "The Bouncing Noble Paladin",
+      "The Jumping Amazing Soldier",
+      "The Bouncing Courageous Wizard"
+    ]
+  },
+  {
+    "leader": "The Leaping Brave Sorcerer",
+    "score": 16,
+    "squad": [
+      "The Leaping Brave Sorcerer",
+      "The Flying Quantum Behemoth",
+      "The Flying Neon Protector",
+      "The Flying Incredible Champion"
+    ]
+  },
+  {
+    "leader": "The Flying Electric Defender",
+    "score": 14,
+    "squad": [
+      "The Flying Electric Defender",
+      "The Bouncing Astral Sorcerer",
+      "The Flying Electric Enchanter",
+      "The Leaping Courageous Wizard"
+    ]
+  },
+  {
+    "leader": "The Jumping Fantastic Cyborg",
+    "score": 8,
+    "squad": [
+      "The Jumping Fantastic Cyborg",
+      "The Flying Enigmatic Android",
+      "The Jumping Shadowy Champion",
+      "The Bouncing Fearless Ranger"
+    ]
+  }
+]
